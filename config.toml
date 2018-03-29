@@ -1,118 +1,66 @@
-# Site settings
-baseurl = "https://datalaria.github.io/blog/"
-languageCode = "en-us"
-title = "Hugo Artists Theme"
-theme = "hugo-artists-theme-master"
+baseurl         = "/"
+theme           = "hugo-casper-two-master"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
 
 [params]
+  title       = "Hugo Casper Two"
+  subtitle    = "Port of Casper 2.x for Hugo"
+  copyright   = "© 2018"
 
-	# You can use Markdown syntax for urls [text](//url.to/source) for
-	# most longer texts.
+  cover       = "img/blog-cover.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
 
-	# To provide some metadata for search engines feel free to add a few
-    # information about you and your website.
-	name = "Your name"
-	description = "Your description"
+  twitterName = "faketryghost"
+  fbName = "fakeghost"
+  githubName = "eueung"
+  linkedinName = "eueung"
+  mediumName = ""
 
-	# Since this template is static, the contact form uses www.formspree.io as a
-	# proxy. The form makes a POST request to their servers to send the actual
-	# email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
-	email = "your@email.com"
+  logo = "hugo-logo.png"
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
 
+  showSupport = true
 
-	# Header an navigation
-	#
-	# To change the header background the 'hero-bg-jpg' at 'static/img'.
-	# Do the same with the logo ('logo.svg').
-	# But keep the original filename!
-	[params.header]
-		title = "Artists Theme"
-		shortBio = "Thinker // Designer // YouTuber"
+  author = "EM"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Your description here"
 
+  pageNotFoundTitle = "404 - Page not found"
 
-	# About section
-	#
-	# Replace the 'avatar.jpg' under 'static/img' with your own image.
-	[params.about]
-		title = "About me"
-		bio = "**Travis specializes in making things** for human people. Most of the things he makes are [digital interfaces](//travisneilson.com/), but he also puts effort into crafting [next-level beats](//soundcloud.com/travis-neilson) and [YouTube videos](//youtube.com/user/devtipsfordesigners) about making codes happen."
+  #casper or caspertwo
+  singleViewStyle = "casper"
 
-		[[params.about.skills]]
-			name = "Communication"
-			value = 9
+[permalinks]
+  post = "/post/:slug/"
 
-		[[params.about.skills]]
-			name = "Organization"
-			value = 7
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
 
-		[[params.about.skills]]
-			name = "Learning"
-			value = 10
+[[menu.main]]
+  name = "Go"
+  url = "/tags/golang/"
+  weight = 100
 
-		[[params.about.skills]]
-			name = "Teaching"
-			value = 6
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 99
 
-		[[params.about.skills]]
-			name = "Planning"
-			value = 7
-
-		[[params.about.skills]]
-			name = "Visual Design"
-			value = 5
-
-		[[params.about.skills]]
-			name = "UX Design"
-			value = 8
-
-		[[params.about.skills]]
-			name = "Programming"
-			value = 6
-
-	# Contact secion
-	[params.contact]
-		title = "Contact"
-
-		# The following social network icons are available:
-		# 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin'
-		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
-		[[params.contact.social]]
-			icon = "twitter"
-			link = "//twitter.com/devtipsshow"
-
-		[[params.contact.social]]
-			icon = "dribbble"
-			link = "//dribbble.com/travisneilson"
-
-		[[params.contact.social]]
-			icon = "behance"
-			link = "//www.behance.net/travisneilson"
-
-		[[params.contact.social]]
-			icon = "youtube"
-			link = "//www.youtube.com/DevTipsForDesigners"
-
-		[[params.contact.social]]
-			icon = "linkedin"
-			link = "//www.linkedin.com/in/travisneilson"
-
-
-	[params.form]
-		title = "Let's work together"
-		# Form fields
-		name = "Your Name"
-		email = "Your Email"
-		message = "Tell me about your project"
-		buttonText = "Send"
-
-
-	[params.footer]
-		copyright = "Published under the Unlicense License."
+[[menu.main]]
+  name = "External"
+  url = "https://google.com/"
+  weight = 95
