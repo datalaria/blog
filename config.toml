@@ -1,8 +1,8 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://datalaria.github.io/blog/"
 languageCode = "en-us"
 title = "Hugo Artists Theme"
-theme = "hugo-artists-theme"
+theme = "hugo-artists-theme-master"
 
 [params]
 
