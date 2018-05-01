@@ -1,4 +1,4 @@
-baseurl = "https://datalaria.github.io"
+baseurl = "http://localhost:1313"
 DefaultContentLanguage = "es"
 #title = ""
 theme = "beautifulhugo"
@@ -25,6 +25,13 @@ pygmentsCodefencesGuessSyntax = true
   title = ""
   weight = 1
   LanguageName = "ES"
+
+  [languages.es.staticman]
+     api= "https://api.staticman.net/v2/connect/datalaria/datalaria.github.io/master/comments"
+     pulls= "https://github.com/datalaria/datalaria.github.io/pulls"
+     [[languages.es.recaptcha]]
+       sitekey= "6LeGeTgUAAAAAAqVrfTwox1kJQFdWl-mLzKasV0v"
+       secret= "hsGjWtWHR4HK4pT7cUsWTArJdZDxxE2pkdg/ArwCguqYQrhuubjj3RS9C5qa8xu4cx/Y9EwHwAMEeXPCZbLR9eW1K9LshissvNcYFfC/b8KKb4deH4V1+oqJEk/JcoK6jp6Rr2nZV4rjDP9M7nunC3WR5UGwMIYb8kKhur9pAic="
 
   [languages.es.params]
     subtitle = "Aprendiendo con los datos"
