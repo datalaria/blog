@@ -1,4 +1,4 @@
-baseurl = "http://localhost:1313"
+baseurl = "https://datalaria.github.io"
 DefaultContentLanguage = "es"
 #title = ""
 theme = "beautifulhugo"
