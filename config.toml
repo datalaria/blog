@@ -13,12 +13,12 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "datalaria"
 #googleAnalytics = "XXX"
 
-[staticman]
-   api= "https://api.staticman.net/v2/connect/datalaria/datalaria.github.io/master/comments"
-   pulls= "https://github.com/datalaria/datalaria.github.io/pulls"
-   [recaptcha]
-     sitekey= "6LeGeTgUAAAAAAqVrfTwox1kJQFdWl-mLzKasV0v"
-     secret= "hsGjWtWHR4HK4pT7cUsWTArJdZDxxE2pkdg/ArwCguqYQrhuubjj3RS9C5qa8xu4cx/Y9EwHwAMEeXPCZbLR9eW1K9LshissvNcYFfC/b8KKb4deH4V1+oqJEk/JcoK6jp6Rr2nZV4rjDP9M7nunC3WR5UGwMIYb8kKhur9pAic="
+# [staticman]
+#    api= "https://api.staticman.net/v2/entry/datalaria/datalaria.github.io/master/comments"
+#    pulls= "https://github.com/datalaria/datalaria.github.io/pulls"
+#    [recaptcha]
+#      sitekey= "6LeGeTgUAAAAAAqVrfTwox1kJQFdWl-mLzKasV0v"
+#      secret= "hsGjWtWHR4HK4pT7cUsWTArJdZDxxE2pkdg/ArwCguqYQrhuubjj3RS9C5qa8xu4cx/Y9EwHwAMEeXPCZbLR9eW1K9LshissvNcYFfC/b8KKb4deH4V1+oqJEk/JcoK6jp6Rr2nZV4rjDP9M7nunC3WR5UGwMIYb8kKhur9pAic="
 
 [languages]
   [languages.es]
@@ -27,12 +27,12 @@ pygmentsCodefencesGuessSyntax = true
   weight = 1
   LanguageName = "ES"
 
-  [languages.es.staticman]
+  [languages.es.params.staticman]
      api= "https://api.staticman.net/v2/connect/datalaria/datalaria.github.io/master/comments"
      pulls= "https://github.com/datalaria/datalaria.github.io/pulls"
-     [[languages.es.recaptcha]]
-       sitekey= "6LeGeTgUAAAAAAqVrfTwox1kJQFdWl-mLzKasV0v"
-       secret= "hsGjWtWHR4HK4pT7cUsWTArJdZDxxE2pkdg/ArwCguqYQrhuubjj3RS9C5qa8xu4cx/Y9EwHwAMEeXPCZbLR9eW1K9LshissvNcYFfC/b8KKb4deH4V1+oqJEk/JcoK6jp6Rr2nZV4rjDP9M7nunC3WR5UGwMIYb8kKhur9pAic="
+  [languages.es.params.recaptcha]
+   sitekey= "6LeGeTgUAAAAAAqVrfTwox1kJQFdWl-mLzKasV0v"
+   secret= "hsGjWtWHR4HK4pT7cUsWTArJdZDxxE2pkdg/ArwCguqYQrhuubjj3RS9C5qa8xu4cx/Y9EwHwAMEeXPCZbLR9eW1K9LshissvNcYFfC/b8KKb4deH4V1+oqJEk/JcoK6jp6Rr2nZV4rjDP9M7nunC3WR5UGwMIYb8kKhur9pAic="
 
   [languages.es.params]
     subtitle = "Aprendiendo con los datos"
@@ -110,6 +110,12 @@ LanguageName = "EN"
 #[[languages.en.taxonomies]]
     #tag = "tags"
     #category = "categories"
+[languages.en.params.staticman]
+   api= "https://api.staticman.net/v2/connect/datalaria/datalaria.github.io/master/comments"
+   pulls= "https://github.com/datalaria/datalaria.github.io/pulls"
+   [[languages.en.params.recaptcha]]
+     sitekey= "6LeGeTgUAAAAAAqVrfTwox1kJQFdWl-mLzKasV0v"
+     secret= "hsGjWtWHR4HK4pT7cUsWTArJdZDxxE2pkdg/ArwCguqYQrhuubjj3RS9C5qa8xu4cx/Y9EwHwAMEeXPCZbLR9eW1K9LshissvNcYFfC/b8KKb4deH4V1+oqJEk/JcoK6jp6Rr2nZV4rjDP9M7nunC3WR5UGwMIYb8kKhur9pAic="
 
 [languages.en.params]
   subtitle = "Learning with data"
