@@ -1,7 +1,7 @@
 ---
 title: Fundamentos
 date: 2015-01-05
-draft: false
+draft: true
 categories: ["fundamentos"]
 ---
 
