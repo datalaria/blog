@@ -28,8 +28,8 @@ pygmentsCodefencesGuessSyntax = true
   LanguageName = "ES"
 
   [languages.es.params.staticman]
-     api= "https://api.staticman.net/v2/entry/datalaria/datalaria.github.io/master/comments"
-     pulls= "https://github.com/datalaria/datalaria.github.io/pulls"
+     api= "https://api.staticman.net/v2/entry/datalaria/blog/master/comments"
+     pulls= "https://github.com/datalaria/blog/pulls"
      [languages.es.params.staticman.recaptcha]
         sitekey= "6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu"
         secret= "tDXhHifxJgciHgyUt+LyAJkb9PTVXa5Vr+j6qHv8T1E9yyB/NINrwQZzeqKYfSs7a3Tb7yqfUGKtb2ZsG9gGW4QWpCQtzJ4SaEYLoiE7cXVf9LBz9YUTVcDcnkjwbJbpIzRPZNOSm6ovHl7zhBkQVuHTEGBauY8JfVY2HlZP5c8="
@@ -111,8 +111,8 @@ LanguageName = "EN"
     #tag = "tags"
     #category = "categories"
 [languages.en.params.staticman]
-   api= "https://api.staticman.net/v2/entry/datalaria/datalaria.github.io/master/comments"
-   pulls= "https://github.com/datalaria/datalaria.github.io/pulls"
+   api= "https://api.staticman.net/v2/entry/datalaria/blog/master/comments"
+   pulls= "https://github.com/datalaria/blog/pulls"
    [languages.en.params.recaptcha]
    sitekey= "6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu"
    secret= "tDXhHifxJgciHgyUt+LyAJkb9PTVXa5Vr+j6qHv8T1E9yyB/NINrwQZzeqKYfSs7a3Tb7yqfUGKtb2ZsG9gGW4QWpCQtzJ4SaEYLoiE7cXVf9LBz9YUTVcDcnkjwbJbpIzRPZNOSm6ovHl7zhBkQVuHTEGBauY8JfVY2HlZP5c8="
