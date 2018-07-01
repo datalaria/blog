@@ -1,4 +1,4 @@
-baseurl = "https://datalaria.github.io/"
+baseurl = "https://datalaria.netlify.com/"
 #baseurl = "http://localhost:1313"
 DefaultContentLanguage = "es"
 #title = ""
