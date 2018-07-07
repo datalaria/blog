@@ -1,0 +1,5 @@
+touch netlify.toml
+atom netlify.toml
+# contents of netlify.toml
+[context.production.environment]
+  HUGO_VERSION = "0.37"
