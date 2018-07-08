@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on </title>
+    <link>https://datalaria.netlify.com/en/tags/general/</link>
+    <description>Recent content in General on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
+    <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
+    <lastBuildDate>Wed, 28 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://datalaria.netlify.com/en/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Starting up</title>
+      <link>https://datalaria.netlify.com/en/post/startup/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://datalaria.netlify.com/en/post/startup/</guid>
+      <description>The purpose of this blog is to carry out a personal R &amp;amp; D work focused on the world of data science. Research focused on the study and learning in the data analysis, its tools and application areas and tools and, Development putting into practice the different concepts studied or analyzed with two goals:
+ Learn and strengthen the knowledge Share such knowledge and references in case they might be of interest to anyone who could consult them.</description>
+    </item>
+    
+  </channel>
+</rss>

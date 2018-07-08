@@ -1,5 +1,5 @@
-#baseurl = "https://datalaria.netlify.com/"
-baseurl = "https://datalaria.github.io/"
+baseurl = "https://datalaria.netlify.com/"
+#baseurl = "https://datalaria.github.io/"
 #baseurl = "http://localhost:1313"
 DefaultContentLanguage = "es"
 #title = ""

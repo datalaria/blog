@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/post/startup/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/post/startup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/post/startup/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/page/about/</loc>
+    <lastmod>2018-04-30T22:17:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/page/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/page/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/page/contact/</loc>
+    <lastmod>2018-04-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/page/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/page/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/tags/descriptive/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/tags/first/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/categories/foundations/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/tags/general/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/tags/general/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/tags/general/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/page/</loc>
+    <lastmod>2018-04-30T22:17:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/page/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/post/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/tags/statistics/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/tags/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/tags/welcome/</loc>
+    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

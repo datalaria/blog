@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>https://datalaria.netlify.com/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
+    <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
+    <lastBuildDate>Wed, 28 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://datalaria.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bienvenida</title>
+      <link>https://datalaria.netlify.com/tags/bienvenida/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://datalaria.netlify.com/tags/bienvenida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Descriptiva</title>
+      <link>https://datalaria.netlify.com/tags/descriptiva/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://datalaria.netlify.com/tags/descriptiva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estadistica</title>
+      <link>https://datalaria.netlify.com/tags/estadistica/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://datalaria.netlify.com/tags/estadistica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>https://datalaria.netlify.com/tags/general/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://datalaria.netlify.com/tags/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inicio</title>
+      <link>https://datalaria.netlify.com/tags/inicio/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://datalaria.netlify.com/tags/inicio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
