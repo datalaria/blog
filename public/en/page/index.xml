@@ -29,7 +29,7 @@ For some time now, I have been embarking on the world of data analysis in its di
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>https://datalaria.netlify.com/en/page/contact/</guid>
       <description>In case you have any remarks, consult or suggestion about the blog or any new subject you think interesting, please don&amp;rsquo;t hesitate to contact me through the following form:
-{{&amp;lt; typeform Xqn7Ov Datalaria 600px &amp;ldquo;65%&amp;rdquo;&amp;gt;}}</description>
+(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()</description>
     </item>
     
   </channel>
