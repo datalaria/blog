@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: /datalaria/blog
+  repo: /datalaria/blog
 
 publish_mode: editorial_workflow
 media_folder: "static/img/uploads" # Media files will be stored in the repo under static/images/uploads
@@ -8,7 +8,7 @@ public_folder: "/img/uploads" # The src attribute for uploaded media will begin 
 
 collections:
 
-  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+  - name: "post" # Used in routes, e.g., /admin/collections/blog
 
     label: "Post" # Used in the UI
 
