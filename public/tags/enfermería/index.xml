@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>https://datalaria.netlify.com/post/</link>
-    <description>Recent content in Posts on </description>
+    <title>Enfermería on </title>
+    <link>https://datalaria.netlify.com/tags/enfermer%C3%ADa/</link>
+    <description>Recent content in Enfermería on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://datalaria.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://datalaria.netlify.com/tags/enfermer%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <guid>https://datalaria.netlify.com/post/casos_exito/2018-08-21-florence-nightingale/</guid>
       <description>Vamos a abrir la categoría de casos de éxito relativos al análisis de datos, con Florence Nightingale (12/05/1920 – 13/08/1910), enfermera, escritora y estadística británica, quién es considerada la primera científica de datos.
 Su caso es especialmente relevante dado que, además de luchar por la emancipación de la mujer mediante la apertura de nuevos rumbos profesionales cualificados, destacó en el ámbito de la enfermería por ser considerada la precursora de la enfermería profesional moderna gracias a la creación del primer modelo conceptual.</description>
-    </item>
-    
-    <item>
-      <title>Arrancamos</title>
-      <link>https://datalaria.netlify.com/post/startup/</link>
-      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
-      <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://datalaria.netlify.com/post/startup/</guid>
-      <description>El propósito de este blog consiste en llevar a cabo una labor de I+D personal centrada en mundo de los datos. Investigación enfocada en el estudio y aprendizaje en el análisis de datos y sus campos de aplicación y herramientas y, Desarrollo con la puesta en práctica de los diferentes conceptos estudiados o analizados y con 2 objetivos:
- Aprender y afianzar los conocimientos expuestos Divulgar dichos conocimientos y referencias por si pudieran ser de interés para cualquiera que pueda consultarlos.</description>
     </item>
     
   </channel>

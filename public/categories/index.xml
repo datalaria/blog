@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
+    <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://datalaria.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Casos De Éxito</title>
+      <link>https://datalaria.netlify.com/categories/casos-de-%C3%A9xito/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://datalaria.netlify.com/categories/casos-de-%C3%A9xito/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fundamentos</title>
