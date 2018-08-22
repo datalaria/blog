@@ -5,6 +5,16 @@
   <url>
     <loc>https://datalaria.netlify.com/post/casos_exito/2018-08-21-florence-nightingale/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/post/casos_exito/2018-08-21-florence-nightingale/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/post/casos_exito/2018-08-21-florence-nightingale/"
+                />
   </url>
   
   <url>
@@ -75,7 +85,7 @@
   </url>
   
   <url>
-    <loc>https://datalaria.netlify.com/categories/casos-de-%C3%A9xito/</loc>
+    <loc>https://datalaria.netlify.com/categories/casos_exito/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -100,6 +110,16 @@
     <loc>https://datalaria.netlify.com/tags/crimea/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/tags/crimea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/tags/crimea/"
+                />
   </url>
   
   <url>
@@ -124,6 +144,16 @@
     <loc>https://datalaria.netlify.com/tags/florence/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/tags/florence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/tags/florence/"
+                />
   </url>
   
   <url>
@@ -158,6 +188,16 @@
     <loc>https://datalaria.netlify.com/tags/nightingale/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/tags/nightingale/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/tags/nightingale/"
+                />
   </url>
   
   <url>

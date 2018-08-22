@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://datalaria.netlify.com/en/post/casos_exito/2018-08-21-florence-nightingale/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/post/casos_exito/2018-08-21-florence-nightingale/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/post/casos_exito/2018-08-21-florence-nightingale/"
+                />
+  </url>
+  
+  <url>
     <loc>https://datalaria.netlify.com/en/post/startup/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -49,7 +64,7 @@
   
   <url>
     <loc>https://datalaria.netlify.com/en/</loc>
-    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -79,6 +94,22 @@
   </url>
   
   <url>
+    <loc>https://datalaria.netlify.com/en/tags/crimea/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/tags/crimea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/tags/crimea/"
+                />
+  </url>
+  
+  <url>
     <loc>https://datalaria.netlify.com/en/tags/descriptive/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -88,6 +119,22 @@
     <loc>https://datalaria.netlify.com/en/tags/first/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/tags/florence/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/tags/florence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/tags/florence/"
+                />
   </url>
   
   <url>
@@ -113,6 +160,40 @@
   </url>
   
   <url>
+    <loc>https://datalaria.netlify.com/en/tags/health/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/tags/healthcare/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/tags/nightingale/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://datalaria.netlify.com/tags/nightingale/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://datalaria.netlify.com/en/tags/nightingale/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://datalaria.netlify.com/en/tags/nursing/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://datalaria.netlify.com/en/page/</loc>
     <lastmod>2018-04-30T22:17:00+00:00</lastmod>
     <priority>0</priority>
@@ -130,7 +211,7 @@
   
   <url>
     <loc>https://datalaria.netlify.com/en/post/</loc>
-    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -151,8 +232,14 @@
   </url>
   
   <url>
+    <loc>https://datalaria.netlify.com/en/categories/success_stories/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://datalaria.netlify.com/en/tags/</loc>
-    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

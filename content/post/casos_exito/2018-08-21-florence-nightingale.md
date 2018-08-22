@@ -1,8 +1,8 @@
 ---
-title: Florence Nightingale - La primera científica de datos
+title: Florence Nightingale - La madre de la Enfermería
 date: 2018-08-21
 draft: False
-categories: ["Casos de Éxito"]
+categories: ["casos_exito"]
 tags: ["Enfermería", "Florence", "Nightingale", "Sanidad", "Crimea"]
 myVar: "myValue"
 
@@ -11,7 +11,7 @@ image: img/FlorenceNightingale.png
 authorAvatar: datalaria-logo.png
 ---
 
-Vamos a abrir la categoría de casos de éxito relativos al análisis de datos, con Florence Nightingale (12/05/1920 – 13/08/1910), enfermera, escritora y estadística británica, quién es considerada la primera científica de datos.
+Vamos a abrir la categoría de casos de éxito relativos al análisis de datos, con Florence Nightingale (12/05/1920 – 13/08/1910), enfermera, escritora y estadística británica, quién es considerada la madre de la enfermería y una de las primeras científicas de datos.
 
 ![Florence Nightingale](/img/FlorenceNightingale.png)
 
