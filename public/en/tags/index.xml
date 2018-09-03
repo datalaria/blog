@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
-    <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://datalaria.netlify.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Course</title>
+      <link>https://datalaria.netlify.com/en/tags/course/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://datalaria.netlify.com/en/tags/course/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Crimea</title>
@@ -18,6 +27,15 @@
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>https://datalaria.netlify.com/en/tags/crimea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://datalaria.netlify.com/en/tags/data/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://datalaria.netlify.com/en/tags/data/</guid>
       <description></description>
     </item>
     
@@ -76,6 +94,15 @@
     </item>
     
     <item>
+      <title>Microsoft</title>
+      <link>https://datalaria.netlify.com/en/tags/microsoft/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://datalaria.netlify.com/en/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nightingale</title>
       <link>https://datalaria.netlify.com/en/tags/nightingale/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
@@ -94,11 +121,38 @@
     </item>
     
     <item>
+      <title>Program</title>
+      <link>https://datalaria.netlify.com/en/tags/program/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://datalaria.netlify.com/en/tags/program/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>https://datalaria.netlify.com/en/tags/science/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://datalaria.netlify.com/en/tags/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Statistics</title>
       <link>https://datalaria.netlify.com/en/tags/statistics/</link>
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>https://datalaria.netlify.com/en/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Track</title>
+      <link>https://datalaria.netlify.com/en/tags/track/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://datalaria.netlify.com/en/tags/track/</guid>
       <description></description>
     </item>
     

@@ -34,6 +34,5 @@ Por lo tanto, y en resumen, Florence Nightingale representa un claro caso de éx
 
 #### Fuentes de interés
 - [CODEM - Colegio Oficial de Enfermería de Madrid](https://www.codem.es/Adjuntos/CODEM/Documentos/Informaciones/Publico/7e040f14-0bea-421f-b327-440fe67f3617/6B276772-CAC4-4790-810D-A61458561AC2/a725b57c-c56a-45ad-a794-fe9942e52081/a725b57c-c56a-45ad-a794-fe9942e52081.pdf)
-- [International Bureau of Education - Unesco](http://www.ibe.unesco.org/sites/default/files/nightins.PDF)
+- [Master Telefónica en Big Data & Business Analytics](https://www.campusbigdata.com/master-telefonica-en-big-data-y-business-analytics)
 - [Did Nightingale’s ‘Rose Diagram’ save millions of lives?](http://www.florence-nightingale-avenging-angel.co.uk/?p=462)
-- [Master Telefónica en Big Data & Business Analytics. Cap. 9 - Visualización de Datos y Comunicación](https://www.campusbigdata.com/master-telefonica-en-big-data-y-business-analytics)
