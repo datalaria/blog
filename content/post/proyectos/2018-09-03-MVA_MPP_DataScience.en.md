@@ -83,9 +83,9 @@ In my opinion, absolutely for those who are thinking of starting in the world of
 
 The approach followed in this program, allows you to learn key and essential concepts of data analysis, then go on to deepen more advanced knowledge until you get to the first steps with machine learning models. In addition, it is very interesting the application of tools such as Excel, Power BI, Azure and programming language learning such as Transact-SQL, R or Python, which are totally necessary in this field.
 
-Finally, from a professional point of view and CV, the course organization by Microsoft and the quality and prestige of the tutors of the different courses, make this program a good curricular asset to demonstrate the acquisition of this knowledge before new job opportunities.
+Finally, from a professional point of view and CV, the institution behind the course, its organization and the prestige of the tutors make this program a good curricular asset to demonstrate the acquisition of the proper data science skills for new job opportunities.
 
-In summary, and to whom is doubting, my advice is that you do not wait another day and enter the first of the courses of the program (initially in free mode since they can be certified if desired after completion) which is quite interesting and motivating and almost certainly will serve as a tip and kick start to embark on this program.
+In summary, my advice to anyone wavering about whether to join this program is "Go ahead" and enroll now in the first of the courses (initially in audit mode -free- since it can be certified after completion). As you can see, this course is quite engaging and will serve as a starting point to embark the whole program.
 
 #### Sources of Interest
 - [edX - Microsoft Professional Program in Data Science](https://www.edx.org/es/microsoft-professional-program-data-science)
