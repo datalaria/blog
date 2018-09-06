@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microsoft on </title>
-    <link>https://datalaria.netlify.com/tags/microsoft/</link>
+    <link>https://www.datalaria.com/tags/microsoft/</link>
     <description>Recent content in Microsoft on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://datalaria.netlify.com/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.datalaria.com/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Programa Profesional de Microsoft para la Ciencia de datos</title>
-      <link>https://datalaria.netlify.com/post/proyectos/2018-09-03-mva_mpp_datascience/</link>
+      <link>https://www.datalaria.com/post/proyectos/2018-09-03-mva_mpp_datascience/</link>
       <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://datalaria.netlify.com/post/proyectos/2018-09-03-mva_mpp_datascience/</guid>
+      <guid>https://www.datalaria.com/post/proyectos/2018-09-03-mva_mpp_datascience/</guid>
       <description>Programa Profesional para la Ciencia de datos Dentro de la Academia Virtual de Microsoft, y como un primer paso de interés dentro del aprendizaje del análisis de datos, se encuentra el Programa Profesional para la Ciencia de datos, impartido a través de la plataforma de aprendizaje edX. Máster Telefónica en Big Data y Business Analytics
 ¿En qué consiste? Este programa certificado por Microsoft se compone de 3 Unidades formativas compuestas por 10 cursos de una duración de 8-12 horas cada uno, y un Proyecto final.</description>
     </item>

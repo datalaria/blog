@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>https://datalaria.netlify.com/categories/</link>
+    <link>https://www.datalaria.com/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://datalaria.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.datalaria.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Casos_exito</title>
-      <link>https://datalaria.netlify.com/categories/casos_exito/</link>
+      <link>https://www.datalaria.com/categories/casos_exito/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://datalaria.netlify.com/categories/casos_exito/</guid>
+      <guid>https://www.datalaria.com/categories/casos_exito/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fundamentos</title>
-      <link>https://datalaria.netlify.com/categories/fundamentos/</link>
+      <link>https://www.datalaria.com/categories/fundamentos/</link>
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://datalaria.netlify.com/categories/fundamentos/</guid>
+      <guid>https://www.datalaria.com/categories/fundamentos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Proyectos</title>
-      <link>https://datalaria.netlify.com/categories/proyectos/</link>
+      <link>https://www.datalaria.com/categories/proyectos/</link>
       <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://datalaria.netlify.com/categories/proyectos/</guid>
+      <guid>https://www.datalaria.com/categories/proyectos/</guid>
       <description></description>
     </item>
     

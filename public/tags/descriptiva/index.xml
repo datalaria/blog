@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Descriptiva on </title>
-    <link>https://datalaria.netlify.com/tags/descriptiva/</link>
+    <link>https://www.datalaria.com/tags/descriptiva/</link>
     <description>Recent content in Descriptiva on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Wed, 28 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://datalaria.netlify.com/tags/descriptiva/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.datalaria.com/tags/descriptiva/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Arrancamos</title>
-      <link>https://datalaria.netlify.com/post/startup/</link>
+      <link>https://www.datalaria.com/post/startup/</link>
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://datalaria.netlify.com/post/startup/</guid>
+      <guid>https://www.datalaria.com/post/startup/</guid>
       <description>El propósito de este blog consiste en llevar a cabo una labor de I+D personal centrada en mundo de los datos. Investigación enfocada en el estudio y aprendizaje en el análisis de datos y sus campos de aplicación y herramientas y, Desarrollo con la puesta en práctica de los diferentes conceptos estudiados o analizados y con 2 objetivos:
  Aprender y afianzar los conocimientos expuestos Divulgar dichos conocimientos y referencias por si pudieran ser de interés para cualquiera que pueda consultarlos.</description>
     </item>

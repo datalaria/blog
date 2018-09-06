@@ -7,7 +7,7 @@ tags: ["Microsoft", "Data", "Science", "Track", "Program", "Course"]
 myVar: "myValue"
 
 weight: 10
-image: img/MPP_DataScienceTrack.png
+image: /img/MPP_DataScienceTrack.png
 authorAvatar: datalaria-logo.png
 ---
 
