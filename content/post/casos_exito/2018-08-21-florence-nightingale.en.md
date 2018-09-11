@@ -7,7 +7,7 @@ tags: ["Nursing", "Florence", "Nightingale", "Healthcare", "Health", "Crimea"]
 myVar: "myValue"
 
 weight: 10
-image: img/FlorenceNightingale.png
+image: /img/FlorenceNightingale.png
 authorAvatar: datalaria-logo.png
 ---
 

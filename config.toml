@@ -13,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "datalaria"
-#googleAnalytics = "XXX"
+googleAnalytics = "UA-125566214-1"
 
 # [staticman]
 #    api= "https://api.staticman.net/v2/entry/datalaria/datalaria.github.io/master/comments"
@@ -34,8 +34,7 @@ pygmentsCodefencesGuessSyntax = true
      pulls= "https://github.com/datalaria/blog/pulls"
      [languages.es.params.staticman.recaptcha]
         sitekey= "6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu"
-        secret= "tDXhHifxJgciHgyUt+LyAJkb9PTVXa5Vr+j6qHv8T1E9yyB/NINrwQZzeqKYfSs7a3Tb7yqfUGKtb2ZsG9gGW4QWpCQtzJ4SaEYLoiE7cXVf9LBz9YUTVcDcnkjwbJbpIzRPZNOSm6ovHl7zhBkQVuHTEGBauY8JfVY2HlZP5c8="
-
+        secret= "L0DOYXxE9+FsXudmh/bfXqyyDx4TJW7JuOrBKhvJHhrqd1EI9WWCUA1ChIPyKNoU8RulIyqhYNS0LmaJ+qfgp/VhymEYFFbaCsQvIUq4cVJkUb9qK6r+y9zdXZp0NnRAAppjJ6ERtkWoIyfmSdBXXi39mmWg+6Vvg1uIeovSWvM="
   [languages.es.params]
     subtitle = "Aprendiendo con los datos"
     logo = "img/datalaria-logo.png"
@@ -117,7 +116,7 @@ LanguageName = "EN"
    pulls= "https://github.com/datalaria/blog/pulls"
    [languages.en.params.recaptcha]
    sitekey= "6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu"
-   secret= "tDXhHifxJgciHgyUt+LyAJkb9PTVXa5Vr+j6qHv8T1E9yyB/NINrwQZzeqKYfSs7a3Tb7yqfUGKtb2ZsG9gGW4QWpCQtzJ4SaEYLoiE7cXVf9LBz9YUTVcDcnkjwbJbpIzRPZNOSm6ovHl7zhBkQVuHTEGBauY8JfVY2HlZP5c8="
+   secret= "L0DOYXxE9+FsXudmh/bfXqyyDx4TJW7JuOrBKhvJHhrqd1EI9WWCUA1ChIPyKNoU8RulIyqhYNS0LmaJ+qfgp/VhymEYFFbaCsQvIUq4cVJkUb9qK6r+y9zdXZp0NnRAAppjJ6ERtkWoIyfmSdBXXi39mmWg+6Vvg1uIeovSWvM="
 
 [languages.en.params]
   subtitle = "Learning with data"
