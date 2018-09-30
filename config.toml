@@ -114,7 +114,7 @@ LanguageName = "EN"
 [languages.en.params.staticman]
    api= "https://api.staticman.net/v2/entry/datalaria/blog/master/comments"
    pulls= "https://github.com/datalaria/blog/pulls"
-   [languages.en.params.recaptcha]
+   [languages.en.params.staticman.recaptcha]
    sitekey= "6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu"
    secret= "L0DOYXxE9+FsXudmh/bfXqyyDx4TJW7JuOrBKhvJHhrqd1EI9WWCUA1ChIPyKNoU8RulIyqhYNS0LmaJ+qfgp/VhymEYFFbaCsQvIUq4cVJkUb9qK6r+y9zdXZp0NnRAAppjJ6ERtkWoIyfmSdBXXi39mmWg+6Vvg1uIeovSWvM="
 
