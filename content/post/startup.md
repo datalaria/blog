@@ -2,7 +2,7 @@
 title: Arrancamos
 date: 2018-03-28
 draft: False
-categories: ["Fundamentos"]
+categories: [""]
 tags: ["estadistica", "descriptiva", "general", "bienvenida", "inicio"]
 myVar: "myValue"
 

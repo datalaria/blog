@@ -2,22 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Foundations on </title>
-    <link>https://www.datalaria.com/en/categories/foundations/</link>
+    <link>http://localhost:1313/en/categories/foundations/</link>
     <description>Recent content in Foundations on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
-    <lastBuildDate>Wed, 28 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.datalaria.com/en/categories/foundations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/en/categories/foundations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Descriptive Statistics</title>
+      <link>http://localhost:1313/en/post/fundamentos/2018-10-07-estadistica-descriptiva/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>http://localhost:1313/en/post/fundamentos/2018-10-07-estadistica-descriptiva/</guid>
+      <description>As a starting point in data analysis, it is necessary to know some mathematical and statistical foundations in order to work with the information to be analyzed.
+Thus, we will start learning some basic concepts:
+Population, Samples, Individuals and Variables:  Population: The set of all the elements under study Sample: A subset of elements of the population (it should be representative of the population) Individuals: Every individual element in the popularion Variables: Characteristics of the individuals  Example: Titanic Dataset</description>
+    </item>
+    
+    <item>
       <title>Starting up</title>
-      <link>https://www.datalaria.com/en/post/startup/</link>
+      <link>http://localhost:1313/en/post/startup/</link>
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/en/post/startup/</guid>
+      <guid>http://localhost:1313/en/post/startup/</guid>
       <description>The purpose of this blog is to carry out a personal R &amp;amp; D work focused on the world of data science. Research focused on the study and learning in the data analysis, its tools and application areas and tools and, Development putting into practice the different concepts studied or analyzed with two goals:
  Learn and strengthen the knowledge Share such knowledge and references in case they might be of interest to anyone who could consult them.</description>
     </item>

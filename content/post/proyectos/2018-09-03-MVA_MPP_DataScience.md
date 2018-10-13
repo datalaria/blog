@@ -11,8 +11,6 @@ image: img/MPP_DataScienceTrack.png
 authorAvatar: datalaria-logo.png
 ---
 
-# **Programa Profesional para la Ciencia de datos**
-
 Dentro de la Academia Virtual de Microsoft, y como un primer paso de interés dentro del aprendizaje del análisis de datos, se encuentra el [Programa Profesional para la Ciencia de datos](https://www.edx.org/microsoft-professional-program-data-science), impartido a través de la plataforma de aprendizaje edX.
 Máster Telefónica en Big Data y Business Analytics
 

@@ -11,8 +11,6 @@ image: /img/MPP_DataScienceTrack.png
 authorAvatar: datalaria-logo.png
 ---
 
-# **Microsoft Professional Program for Data Science**
-
 As a first step in the data science learning track, and inside the Microsoft Virtual Academy, you can find the [Microsoft Professional Program for Data Science](https://www.edx.org/microsoft-professional-program-data-science) course delivered through the online learning platform edX.
 
 ![MPP_DataScienceTrack](/img/MPP_DataScienceTrack.png)

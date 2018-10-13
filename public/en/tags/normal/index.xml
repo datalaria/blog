@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Normal on </title>
+    <link>http://localhost:1313/en/tags/normal/</link>
+    <description>Recent content in Normal on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
+    <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
+    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/en/tags/normal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Descriptive Statistics</title>
+      <link>http://localhost:1313/en/post/fundamentos/2018-10-07-estadistica-descriptiva/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>http://localhost:1313/en/post/fundamentos/2018-10-07-estadistica-descriptiva/</guid>
+      <description>As a starting point in data analysis, it is necessary to know some mathematical and statistical foundations in order to work with the information to be analyzed.
+Thus, we will start learning some basic concepts:
+Population, Samples, Individuals and Variables:  Population: The set of all the elements under study Sample: A subset of elements of the population (it should be representative of the population) Individuals: Every individual element in the popularion Variables: Characteristics of the individuals  Example: Titanic Dataset</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
-baseurl = "https://www.datalaria.com/"
+#baseurl = "https://www.datalaria.com/"
 #baseurl = "https://datalaria.netlify.com/"
 #baseurl = "https://datalaria.github.io/"
-#baseurl = "http://localhost:1313"
+baseurl = "http://localhost:1313"
 DefaultContentLanguage = "es"
 #title = ""
 theme = "beautifulhugo"
@@ -30,7 +30,9 @@ googleAnalytics = "UA-125566214-1"
   LanguageName = "ES"
 
   [languages.es.params.staticman]
-     api= "https://api.staticman.net/v2/entry/datalaria/blog/master/comments"
+     # api= "https://api.staticman.net/v2/entry/datalaria/blog/master/comments"
+     api= "https://api.staticman3.herokuapp.com/v2/entry/datalaria/blog/master/comments"
+
      pulls= "https://github.com/datalaria/blog/pulls"
      [languages.es.params.staticman.recaptcha]
         sitekey= "6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu"
@@ -112,7 +114,8 @@ LanguageName = "EN"
     #tag = "tags"
     #category = "categories"
 [languages.en.params.staticman]
-   api= "https://api.staticman.net/v2/entry/datalaria/blog/master/comments"
+   # api= "https://api.staticman.net/v2/entry/datalaria/blog/master/comments"
+   api= "https://api.staticman3.herokuapp.com/v2/entry/datalaria/blog/master/comments"
    pulls= "https://github.com/datalaria/blog/pulls"
    [languages.en.params.staticman.recaptcha]
    sitekey= "6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu"

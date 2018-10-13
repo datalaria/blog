@@ -2,62 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://www.datalaria.com/en/</link>
+    <link>http://localhost:1313/en/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
-    <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.datalaria.com/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Descriptive Statistics</title>
+      <link>http://localhost:1313/en/post/fundamentos/2018-10-07-estadistica-descriptiva/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>http://localhost:1313/en/post/fundamentos/2018-10-07-estadistica-descriptiva/</guid>
+      <description>As a starting point in data analysis, it is necessary to know some mathematical and statistical foundations in order to work with the information to be analyzed.
+Thus, we will start learning some basic concepts:
+Population, Samples, Individuals and Variables:  Population: The set of all the elements under study Sample: A subset of elements of the population (it should be representative of the population) Individuals: Every individual element in the popularion Variables: Characteristics of the individuals  Example: Titanic Dataset</description>
+    </item>
+    
+    <item>
       <title>Microsoft Professional Program for Data Science</title>
-      <link>https://www.datalaria.com/en/post/proyectos/2018-09-03-mva_mpp_datascience/</link>
+      <link>http://localhost:1313/en/post/proyectos/2018-09-03-mva_mpp_datascience/</link>
       <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/en/post/proyectos/2018-09-03-mva_mpp_datascience/</guid>
-      <description>Microsoft Professional Program for Data Science As a first step in the data science learning track, and inside the Microsoft Virtual Academy, you can find the Microsoft Professional Program for Data Science course delivered through the online learning platform edX.
+      <guid>http://localhost:1313/en/post/proyectos/2018-09-03-mva_mpp_datascience/</guid>
+      <description>As a first step in the data science learning track, and inside the Microsoft Virtual Academy, you can find the Microsoft Professional Program for Data Science course delivered through the online learning platform edX.
 How it works? This program, certified by Microsoft, is made up of 3 units with 10 courses (lasting about 8-12 hours each) and a project capstone. The Microsoft Program Certificate is achieved once all the courses have been verified and certified through the edX platform (in case of not being interested in this certification and as for the rest of MOOCs in the edX platform, they can also be done free of charge).</description>
     </item>
     
     <item>
       <title>Florence Nightingale - The mother of Nursing</title>
-      <link>https://www.datalaria.com/en/post/casos_exito/2018-08-21-florence-nightingale/</link>
+      <link>http://localhost:1313/en/post/casos_exito/2018-08-21-florence-nightingale/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/en/post/casos_exito/2018-08-21-florence-nightingale/</guid>
+      <guid>http://localhost:1313/en/post/casos_exito/2018-08-21-florence-nightingale/</guid>
       <description>We are opening the Success Stories category with Florence Nightingale (12/05/1920 – 13/08/1910), british nurse, writer and statistician, who is considered the mother of nursing and one of the first data scientist in history.
 Her story is especially relevant given that, in addition to fighting for the women’s rights and emancipation through the opening of new qualified professional paths, she stood out in the field of nursing for being considered the precursor of modern professional nursing thanks to the creation of the first conceptual model of nursing.</description>
     </item>
     
     <item>
       <title>Starting up</title>
-      <link>https://www.datalaria.com/en/post/startup/</link>
+      <link>http://localhost:1313/en/post/startup/</link>
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/en/post/startup/</guid>
+      <guid>http://localhost:1313/en/post/startup/</guid>
       <description>The purpose of this blog is to carry out a personal R &amp;amp; D work focused on the world of data science. Research focused on the study and learning in the data analysis, its tools and application areas and tools and, Development putting into practice the different concepts studied or analyzed with two goals:
  Learn and strengthen the knowledge Share such knowledge and references in case they might be of interest to anyone who could consult them.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://www.datalaria.com/en/page/about/</link>
+      <link>http://localhost:1313/en/page/about/</link>
       <pubDate>Mon, 30 Apr 2018 22:17:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/en/page/about/</guid>
+      <guid>http://localhost:1313/en/page/about/</guid>
       <description>Hi to everyone!!, My name is Daniel, a telecommunications engineer with over 10 years of experience in Engineering and R &amp;amp; D projects within a multinational company in the sector. Passionate about any new technology, tool or system that becomes a reality the impossible, or at least, easier the difficult.
 For some time now, I have been embarking on the world of data analysis in its different uses and following the Lord Kevin’s maxim: &amp;ldquo;If you cannot measure it, you cannot improve it&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://www.datalaria.com/en/page/contact/</link>
+      <link>http://localhost:1313/en/page/contact/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/en/page/contact/</guid>
+      <guid>http://localhost:1313/en/page/contact/</guid>
       <description>In case you have any remarks, consult or suggestion about the blog or any new subject you think interesting, please don&amp;rsquo;t hesitate to contact me through the following form:
 (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()</description>
     </item>

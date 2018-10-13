@@ -3,355 +3,404 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.datalaria.com/en/post/proyectos/2018-09-03-mva_mpp_datascience/</loc>
+    <loc>http://localhost:1313/en/post/fundamentos/2018-10-07-estadistica-descriptiva/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/post/fundamentos/2018-10-07-estadistica-descriptiva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/post/fundamentos/2018-10-07-estadistica-descriptiva/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/post/proyectos/2018-09-03-mva_mpp_datascience/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.datalaria.com/post/proyectos/2018-09-03-mva_mpp_datascience/"
+                href="http://localhost:1313/post/proyectos/2018-09-03-mva_mpp_datascience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datalaria.com/en/post/proyectos/2018-09-03-mva_mpp_datascience/"
+                href="http://localhost:1313/en/post/proyectos/2018-09-03-mva_mpp_datascience/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/post/casos_exito/2018-08-21-florence-nightingale/</loc>
+    <loc>http://localhost:1313/en/post/casos_exito/2018-08-21-florence-nightingale/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.datalaria.com/post/casos_exito/2018-08-21-florence-nightingale/"
+                href="http://localhost:1313/post/casos_exito/2018-08-21-florence-nightingale/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datalaria.com/en/post/casos_exito/2018-08-21-florence-nightingale/"
+                href="http://localhost:1313/en/post/casos_exito/2018-08-21-florence-nightingale/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/post/startup/</loc>
+    <loc>http://localhost:1313/en/post/startup/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.datalaria.com/post/startup/"
+                href="http://localhost:1313/post/startup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datalaria.com/en/post/startup/"
+                href="http://localhost:1313/en/post/startup/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/page/about/</loc>
+    <loc>http://localhost:1313/en/page/about/</loc>
     <lastmod>2018-04-30T22:17:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.datalaria.com/page/about/"
+                href="http://localhost:1313/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datalaria.com/en/page/about/"
+                href="http://localhost:1313/en/page/about/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/page/contact/</loc>
+    <loc>http://localhost:1313/en/page/contact/</loc>
     <lastmod>2018-04-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.datalaria.com/page/contact/"
+                href="http://localhost:1313/page/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datalaria.com/en/page/contact/"
+                href="http://localhost:1313/en/page/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/tags/course/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/tags/crimea/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/crimea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/crimea/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/tags/data/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.datalaria.com/"
+                href="http://localhost:1313/tags/data/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datalaria.com/en/"
+                href="http://localhost:1313/en/tags/data/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/categories/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.datalaria.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datalaria.com/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datalaria.com/en/tags/course/</loc>
-    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.datalaria.com/en/tags/crimea/</loc>
-    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.datalaria.com/tags/crimea/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datalaria.com/en/tags/crimea/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datalaria.com/en/tags/data/</loc>
-    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.datalaria.com/tags/data/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datalaria.com/en/tags/data/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datalaria.com/en/tags/descriptive/</loc>
+    <loc>http://localhost:1313/en/tags/descriptive/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/tags/first/</loc>
+    <loc>http://localhost:1313/en/tags/distribution/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/tags/first/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/tags/florence/</loc>
+    <loc>http://localhost:1313/en/tags/florence/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.datalaria.com/tags/florence/"
+                href="http://localhost:1313/tags/florence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datalaria.com/en/tags/florence/"
+                href="http://localhost:1313/en/tags/florence/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/categories/foundations/</loc>
-    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/categories/foundations/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/tags/general/</loc>
+    <loc>http://localhost:1313/en/tags/gaussian/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/tags/general/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.datalaria.com/tags/general/"
+                href="http://localhost:1313/tags/general/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datalaria.com/en/tags/general/"
+                href="http://localhost:1313/en/tags/general/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/tags/health/</loc>
+    <loc>http://localhost:1313/en/tags/health/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/tags/healthcare/</loc>
+    <loc>http://localhost:1313/en/tags/healthcare/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/tags/microsoft/</loc>
+    <loc>http://localhost:1313/en/tags/maths/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/tags/microsoft/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.datalaria.com/tags/microsoft/"
+                href="http://localhost:1313/tags/microsoft/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datalaria.com/en/tags/microsoft/"
+                href="http://localhost:1313/en/tags/microsoft/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/tags/nightingale/</loc>
+    <loc>http://localhost:1313/en/tags/nightingale/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.datalaria.com/tags/nightingale/"
+                href="http://localhost:1313/tags/nightingale/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datalaria.com/en/tags/nightingale/"
+                href="http://localhost:1313/en/tags/nightingale/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/tags/nursing/</loc>
+    <loc>http://localhost:1313/en/tags/normal/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/normal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/normal/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/tags/nursing/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/page/</loc>
+    <loc>http://localhost:1313/en/page/</loc>
     <lastmod>2018-04-30T22:17:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.datalaria.com/page/"
+                href="http://localhost:1313/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datalaria.com/en/page/"
+                href="http://localhost:1313/en/page/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/post/</loc>
+    <loc>http://localhost:1313/en/post/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/tags/program/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/categories/projects/</loc>
+    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/tags/science/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.datalaria.com/post/"
+                href="http://localhost:1313/tags/science/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datalaria.com/en/post/"
+                href="http://localhost:1313/en/tags/science/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/tags/program/</loc>
-    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/tags/statistics/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/categories/projects/</loc>
-    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.datalaria.com/en/tags/science/</loc>
-    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.datalaria.com/tags/science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datalaria.com/en/tags/science/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datalaria.com/en/tags/statistics/</loc>
-    <lastmod>2018-03-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.datalaria.com/en/categories/success_stories/</loc>
+    <loc>http://localhost:1313/en/categories/success_stories/</loc>
     <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.datalaria.com/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datalaria.com/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/tags/track/</loc>
+    <loc>http://localhost:1313/en/tags/track/</loc>
     <lastmod>2018-09-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.datalaria.com/tags/track/"
+                href="http://localhost:1313/tags/track/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datalaria.com/en/tags/track/"
+                href="http://localhost:1313/en/tags/track/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datalaria.com/en/tags/welcome/</loc>
+    <loc>http://localhost:1313/en/tags/welcome/</loc>
     <lastmod>2018-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
