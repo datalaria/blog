@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>http://localhost:1313/en/categories/</link>
+    <link>https://www.datalaria.com/en/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     
-	<atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.datalaria.com/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Foundations</title>
-      <link>http://localhost:1313/en/categories/foundations/</link>
+      <link>https://www.datalaria.com/en/categories/foundations/</link>
       <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/en/categories/foundations/</guid>
+      <guid>https://www.datalaria.com/en/categories/foundations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/en/categories/projects/</link>
+      <link>https://www.datalaria.com/en/categories/projects/</link>
       <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/en/categories/projects/</guid>
+      <guid>https://www.datalaria.com/en/categories/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Success_stories</title>
-      <link>http://localhost:1313/en/categories/success_stories/</link>
+      <link>https://www.datalaria.com/en/categories/success_stories/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/en/categories/success_stories/</guid>
+      <guid>https://www.datalaria.com/en/categories/success_stories/</guid>
       <description></description>
     </item>
     

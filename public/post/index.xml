@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://www.datalaria.com/post/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.datalaria.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Estadística Descriptiva</title>
-      <link>http://localhost:1313/post/fundamentos/2018-10-07-estadistica-descriptiva/</link>
+      <link>https://www.datalaria.com/post/fundamentos/2018-10-07-estadistica-descriptiva/</link>
       <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/fundamentos/2018-10-07-estadistica-descriptiva/</guid>
+      <guid>https://www.datalaria.com/post/fundamentos/2018-10-07-estadistica-descriptiva/</guid>
       <description>Como punto de partida en el análisis de datos, es necesario conocer unas nociones matemáticas y estadísticas para poder trabajar con la información a analizar.
 Para ello, vamos a comenzar viendo unos conceptos básicos:
 Población, Muestras, Individuos y Variables  Población: Total de elementos bajo estudio Muestra: Subconjunto de elementos de la población (debería ser representativo de la población) Individuos: Elementos individuales de la población Variables: Características de los individuos  Ejemplo: Dataset Titanic</description>
@@ -25,30 +25,30 @@ Población, Muestras, Individuos y Variables  Población: Total de elementos baj
     
     <item>
       <title>Programa Profesional de Microsoft para la Ciencia de datos</title>
-      <link>http://localhost:1313/post/proyectos/2018-09-03-mva_mpp_datascience/</link>
+      <link>https://www.datalaria.com/post/proyectos/2018-09-03-mva_mpp_datascience/</link>
       <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/proyectos/2018-09-03-mva_mpp_datascience/</guid>
+      <guid>https://www.datalaria.com/post/proyectos/2018-09-03-mva_mpp_datascience/</guid>
       <description>Dentro de la Academia Virtual de Microsoft, y como un primer paso de interés dentro del aprendizaje del análisis de datos, se encuentra el Programa Profesional para la Ciencia de datos, impartido a través de la plataforma de aprendizaje edX. Máster Telefónica en Big Data y Business Analytics
 ¿En qué consiste? Este programa certificado por Microsoft se compone de 3 Unidades formativas compuestas por 10 cursos de una duración de 8-12 horas cada uno, y un Proyecto final.</description>
     </item>
     
     <item>
       <title>Florence Nightingale - La madre de la Enfermería</title>
-      <link>http://localhost:1313/post/casos_exito/2018-08-21-florence-nightingale/</link>
+      <link>https://www.datalaria.com/post/casos_exito/2018-08-21-florence-nightingale/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/casos_exito/2018-08-21-florence-nightingale/</guid>
+      <guid>https://www.datalaria.com/post/casos_exito/2018-08-21-florence-nightingale/</guid>
       <description>Vamos a abrir la categoría de casos de éxito relativos al análisis de datos, con Florence Nightingale (12/05/1920 – 13/08/1910), enfermera, escritora y estadística británica, quién es considerada la madre de la enfermería y una de las primeras científicas de datos.
 Su caso es especialmente relevante dado que, además de luchar por la emancipación de la mujer mediante la apertura de nuevos rumbos profesionales cualificados, destacó en el ámbito de la enfermería por ser considerada la precursora de la enfermería profesional moderna gracias a la creación del primer modelo conceptual.</description>
     </item>
     
     <item>
       <title>Arrancamos</title>
-      <link>http://localhost:1313/post/startup/</link>
+      <link>https://www.datalaria.com/post/startup/</link>
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/startup/</guid>
+      <guid>https://www.datalaria.com/post/startup/</guid>
       <description>El propósito de este blog consiste en llevar a cabo una labor de I+D personal centrada en mundo de los datos. Investigación enfocada en el estudio y aprendizaje en el análisis de datos y sus campos de aplicación y herramientas y, Desarrollo con la puesta en práctica de los diferentes conceptos estudiados o analizados y con 2 objetivos:
  Aprender y afianzar los conocimientos expuestos Divulgar dichos conocimientos y referencias por si pudieran ser de interés para cualquiera que pueda consultarlos.</description>
     </item>

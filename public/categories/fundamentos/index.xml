@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fundamentos on </title>
-    <link>http://localhost:1313/categories/fundamentos/</link>
+    <link>https://www.datalaria.com/categories/fundamentos/</link>
     <description>Recent content in Fundamentos on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Sun, 07 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/categories/fundamentos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.datalaria.com/categories/fundamentos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Estadística Descriptiva</title>
-      <link>http://localhost:1313/post/fundamentos/2018-10-07-estadistica-descriptiva/</link>
+      <link>https://www.datalaria.com/post/fundamentos/2018-10-07-estadistica-descriptiva/</link>
       <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/fundamentos/2018-10-07-estadistica-descriptiva/</guid>
+      <guid>https://www.datalaria.com/post/fundamentos/2018-10-07-estadistica-descriptiva/</guid>
       <description>Como punto de partida en el análisis de datos, es necesario conocer unas nociones matemáticas y estadísticas para poder trabajar con la información a analizar.
 Para ello, vamos a comenzar viendo unos conceptos básicos:
 Población, Muestras, Individuos y Variables  Población: Total de elementos bajo estudio Muestra: Subconjunto de elementos de la población (debería ser representativo de la población) Individuos: Elementos individuales de la población Variables: Características de los individuos  Ejemplo: Dataset Titanic</description>

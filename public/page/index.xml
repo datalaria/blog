@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on </title>
-    <link>http://localhost:1313/page/</link>
+    <link>https://www.datalaria.com/page/</link>
     <description>Recent content in Pages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.datalaria.com/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contacto</title>
-      <link>http://localhost:1313/page/contact/</link>
+      <link>https://www.datalaria.com/page/contact/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/page/contact/</guid>
+      <guid>https://www.datalaria.com/page/contact/</guid>
       <description>En caso de que tengas algún comentario, consulta o sugerencia sobre los comentarios del blog o cualquier nueva aportación que consideres interesante, no dudes en contactarme a través del siguiente formulario:
 (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()</description>
     </item>
     
     <item>
       <title>Sobre mí</title>
-      <link>http://localhost:1313/page/about/</link>
+      <link>https://www.datalaria.com/page/about/</link>
       <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/page/about/</guid>
+      <guid>https://www.datalaria.com/page/about/</guid>
       <description>Hola a tod@s!!, Mi nombre es Daniel, ingeniero de telecomunicaciones con más de 10 años de experiencia en el mundo de la Ingeniería y proyectos I+D dentro de una empresa multinacional del sector.
 Apasionado de cualquier nueva tecnología, herramienta o sistema que permita hacer real lo imposible o simplemente más fácil lo difícil.
 Desde hace un tiempo me estoy embarcando en el mundo del análisis de datos en sus diferentes facetas y siguiendo la máxima de Lord Kevin: “Lo que no se define no se puede medir.</description>
