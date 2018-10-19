@@ -31,7 +31,7 @@ googleAnalytics = "UA-125566214-1"
 
   [languages.es.params.staticman]
      # api= "https://api.staticman.net/v2/entry/datalaria/blog/master/comments"
-     api= "https://api.staticman3.herokuapp.com/v2/entry/datalaria/blog/master/comments"
+     api= "https://staticman3.herokuapp.com/v3/github/entry/datalaria/blog/master/comments"
 
      pulls= "https://github.com/datalaria/blog/pulls"
      [languages.es.params.staticman.recaptcha]
@@ -115,7 +115,7 @@ LanguageName = "EN"
     #category = "categories"
 [languages.en.params.staticman]
    # api= "https://api.staticman.net/v2/entry/datalaria/blog/master/comments"
-   api= "https://api.staticman3.herokuapp.com/v2/entry/datalaria/blog/master/comments"
+   api= "https://staticman3.herokuapp.com/v3/github/entry/datalaria/blog/master/comments"
    pulls= "https://github.com/datalaria/blog/pulls"
    [languages.en.params.staticman.recaptcha]
    sitekey= "6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu"
