@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.datalaria.com/en/post/utilidades/2018-10-14-excel/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.datalaria.com/post/utilidades/2018-10-14-excel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datalaria.com/en/post/utilidades/2018-10-14-excel/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.datalaria.com/en/post/fundamentos/2018-10-07-estadistica-descriptiva/</loc>
     <lastmod>2018-10-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -94,7 +109,7 @@
   
   <url>
     <loc>https://www.datalaria.com/en/</loc>
-    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -106,6 +121,18 @@
                 hreflang="en"
                 href="https://www.datalaria.com/en/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.datalaria.com/en/tags/analysis/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.datalaria.com/en/tags/calcaulate/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -147,7 +174,7 @@
   
   <url>
     <loc>https://www.datalaria.com/en/tags/data/</loc>
-    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -171,6 +198,22 @@
     <loc>https://www.datalaria.com/en/tags/distribution/</loc>
     <lastmod>2018-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.datalaria.com/en/tags/excel/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.datalaria.com/tags/excel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datalaria.com/en/tags/excel/"
+                />
   </url>
   
   <url>
@@ -313,7 +356,7 @@
   
   <url>
     <loc>https://www.datalaria.com/en/post/</loc>
-    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -356,6 +399,12 @@
   </url>
   
   <url>
+    <loc>https://www.datalaria.com/en/tags/spreadsheet/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.datalaria.com/en/tags/statistics/</loc>
     <lastmod>2018-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -368,8 +417,14 @@
   </url>
   
   <url>
+    <loc>https://www.datalaria.com/en/tags/tables/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.datalaria.com/en/tags/</loc>
-    <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -396,6 +451,28 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.datalaria.com/en/tags/track/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datalaria.com/en/categories/utilities/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.datalaria.com/en/tags/vba/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.datalaria.com/tags/vba/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datalaria.com/en/tags/vba/"
                 />
   </url>
   

@@ -31,12 +31,13 @@ googleAnalytics = "UA-125566214-1"
 
   [languages.es.params.staticman]
      # api= "https://api.staticman.net/v2/entry/datalaria/blog/master/comments"
-     api= "https://api.staticman3.herokuapp.com/v2/entry/datalaria/blog/master/comments"
+     api= "https://datalaria-staticman.herokuapp.com/v2/entry/datalaria/blog/master/comments"
 
      pulls= "https://github.com/datalaria/blog/pulls"
      [languages.es.params.staticman.recaptcha]
-        sitekey= "6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu"
-        secret= "L0DOYXxE9+FsXudmh/bfXqyyDx4TJW7JuOrBKhvJHhrqd1EI9WWCUA1ChIPyKNoU8RulIyqhYNS0LmaJ+qfgp/VhymEYFFbaCsQvIUq4cVJkUb9qK6r+y9zdXZp0NnRAAppjJ6ERtkWoIyfmSdBXXi39mmWg+6Vvg1uIeovSWvM="
+     siteKey= "6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu"
+     secret= "Qk9SvaX/2uB8fQZtzK9K3+Oy5YWg/QL9hFmemJr/L3lNtijJjOItbxF8Gyzl3gmwZmAP/gzSMuWKQ4tDBUBS0O0eGf2LfgdTfiv/bNJbT0EryImDiz+k5v+CH4AqmeVT1BYAdCY/JkuVsaUXq2V5WJ0pgTMYxdAyp1CkjzGct8U="
+
   [languages.es.params]
     subtitle = "Aprendiendo con los datos"
     logo = "img/datalaria-logo.png"
@@ -115,11 +116,11 @@ LanguageName = "EN"
     #category = "categories"
 [languages.en.params.staticman]
    # api= "https://api.staticman.net/v2/entry/datalaria/blog/master/comments"
-   api= "https://api.staticman3.herokuapp.com/v2/entry/datalaria/blog/master/comments"
+   api= "https://datalaria-staticman.herokuapp.com/v2/entry/datalaria/blog/master/comments"
    pulls= "https://github.com/datalaria/blog/pulls"
    [languages.en.params.staticman.recaptcha]
-   sitekey= "6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu"
-   secret= "L0DOYXxE9+FsXudmh/bfXqyyDx4TJW7JuOrBKhvJHhrqd1EI9WWCUA1ChIPyKNoU8RulIyqhYNS0LmaJ+qfgp/VhymEYFFbaCsQvIUq4cVJkUb9qK6r+y9zdXZp0NnRAAppjJ6ERtkWoIyfmSdBXXi39mmWg+6Vvg1uIeovSWvM="
+   siteKey= "6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu"
+   secret= "Qk9SvaX/2uB8fQZtzK9K3+Oy5YWg/QL9hFmemJr/L3lNtijJjOItbxF8Gyzl3gmwZmAP/gzSMuWKQ4tDBUBS0O0eGf2LfgdTfiv/bNJbT0EryImDiz+k5v+CH4AqmeVT1BYAdCY/JkuVsaUXq2V5WJ0pgTMYxdAyp1CkjzGct8U="
 
 [languages.en.params]
   subtitle = "Learning with data"

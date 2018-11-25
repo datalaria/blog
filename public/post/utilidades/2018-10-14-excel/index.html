@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Excel (Hojas de Cálculo)</title>
+  <meta property="og:title" content="Excel (Hojas de Cálculo)" />
+  <meta name="twitter:title" content="Excel (Hojas de Cálculo)" />
+  <meta name="description" content="Las aplicaciones de hojas de cálculo como Microsoft Excel, Hojas de cálculo de Google, Apache OpenOffice Calc (ver otras alternativas en workana), podrían considerarse una herramienta básica o de iniciación para el análisis de datos.
+En esta entrada, vamos a centrarnos en la herramienta MS Excel 2016 para introducir de manera básica varias de sus funcionalidades más interesantes desde el punto de vista del análisis de datos (realizables de manera análoga en el resto de herramientas de hojas de cálculo).">
+  <meta property="og:description" content="Las aplicaciones de hojas de cálculo como Microsoft Excel, Hojas de cálculo de Google, Apache OpenOffice Calc (ver otras alternativas en workana), podrían considerarse una herramienta básica o de iniciación para el análisis de datos.
+En esta entrada, vamos a centrarnos en la herramienta MS Excel 2016 para introducir de manera básica varias de sus funcionalidades más interesantes desde el punto de vista del análisis de datos (realizables de manera análoga en el resto de herramientas de hojas de cálculo).">
+  <meta name="twitter:description" content="Las aplicaciones de hojas de cálculo como Microsoft Excel, Hojas de cálculo de Google, Apache OpenOffice Calc (ver otras alternativas en workana), podrían considerarse una herramienta básica o de …">
+  <meta name="author" content="Datalaria"/>
+  <link href='https://www.datalaria.com/img/datalaria-icon.ico' rel='icon' type='image/x-icon'/>
+  <meta property="og:image" content="https://www.datalaria.com/img/excel/excel.png" />
+  <meta name="twitter:image" content="https://www.datalaria.com/img/excel/excel.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@datalaria" />
+  <meta name="twitter:creator" content="@datalaria" />
+  <meta property="og:url" content="https://www.datalaria.com/post/utilidades/2018-10-14-excel/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="" />
+
+  <meta name="generator" content="Hugo 0.37.1" />
+  <link rel="canonical" href="https://www.datalaria.com/post/utilidades/2018-10-14-excel/" />
+  <link rel="alternate" href="https://www.datalaria.com/index.xml" type="application/rss+xml" title="">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://www.datalaria.com/css/main.css" /><link rel="stylesheet" href="https://www.datalaria.com/css/staticman.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="https://www.datalaria.com/css/highlight.min.css" /><link rel="stylesheet" href="https://www.datalaria.com/css/codeblock.css" /><script src='https://www.google.com/recaptcha/api.js'></script>
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-125566214-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Conmuta navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://www.datalaria.com/"></a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li>
+              <a title="Blog" href="/">Blog</a>
+            </li>
+          
+        
+          
+            <li class="navlinks-container">
+              <a class="navlinks-parent" href="javascript:void(0)">Categorias</a>
+              <div class="navlinks-children">
+                
+                  <a href="/categories/fundamentos">Fundamentos</a>
+                
+                  <a href="/categories/proyectos">Proyectos</a>
+                
+                  <a href="/categories/casos_exito">Casos de Éxito</a>
+                
+                  <a href="/categories/utilidades">Utilidades</a>
+                
+              </div>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Etiquetas" href="/tags">Etiquetas</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Contacto" href="/page/contact/">Contacto</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Sobre mí" href="/page/about/">Sobre mí</a>
+            </li>
+          
+        
+
+        
+          
+            <li>
+              
+                
+              
+                
+                  <a href="/en" lang="en">EN</a>
+                
+              
+            </li>
+          
+        
+
+        
+      </ul>
+    </div>
+
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        
+          <a title="" href="https://www.datalaria.com/">
+            <img class="avatar-img" src="https://www.datalaria.com/img/datalaria-logo.png" alt="" />
+          </a>
+        
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+
+
+
+    
+  
+  
+  
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="post-heading">
+              <h1>Excel (Hojas de Cálculo)</h1>
+                
+                
+                  <span class="post-meta">
+  
+  
+  <i class="fa fa-calendar-o"></i>&nbsp;Publicado el 14-10-2018
+  
+  
+  &nbsp;|&nbsp;
+  <i class="fa fa-clock-o"></i> 8 minutos (1687 palabras)
+  &nbsp;|&nbsp;  <i class="fa fa-comment-o"></i>
+    
+    
+  
+  &nbsp;&bull;&nbsp; Otros idiomas: <a href="https://www.datalaria.com/en/post/utilidades/2018-10-14-excel/" lang="en">EN</a>
+</span>
+
+
+                
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        
+
+<p>Las aplicaciones de hojas de cálculo como Microsoft Excel, Hojas de cálculo de Google, Apache OpenOffice Calc (ver otras alternativas en <a href="https://www.workana.com/blog/emprendimiento/ademas-de-excel-las-8-mejores-opciones-de-programas-para-hacer-hojas-de-calculo/">workana</a>), podrían considerarse una herramienta básica o de iniciación para el análisis de datos.</p>
+
+<p>En esta entrada, vamos a centrarnos en la herramienta MS Excel 2016 para introducir de manera básica varias de sus funcionalidades más interesantes desde el punto de vista del análisis de datos (realizables de  manera análoga en el resto de herramientas de hojas de cálculo). En posteriores entradas de la sección de proyectos, se irán viendo ejemplos prácticos de análisis desarrollados mediante algunas de estas herramientas.</p>
+
+<h2 id="introducción">Introducción</h2>
+
+<p><a href="https://products.office.com/es-es/excel">MS Excel</a> es probablemente la herramienta más utilizada para el análisis y la visualización de datos en el ámbito empresarial y educativo.</p>
+
+<p>A continuación vamos a ver como utilizar esta herramienta para realizar análisis de <a href="https://www.datalaria.com/post/fundamentos/2018-10-07-estadistica-descriptiva/">estadística descriptiva</a>, así como realizar análisis y visualización de datos más avanzados mediante las novedades del <a href="https://support.office.com/es-es/article/crear-un-modelo-de-datos-en-excel-87e7a54c-87dc-488e-9410-5c75dbcb0f7b">Modelo de datos de Excel</a> y centrándonos principalmente en el uso de tablas y gráficos dinámicos.</p>
+
+<p>La información expuesta se basa en una pequeña parte de los aspectos recogidos en los cursos del <a href="https://www.datalaria.com/post/proyectos/2018-09-03-mva_mpp_datascience/">Microsoft Data Science Program</a>:</p>
+
+<ul>
+<li><a href="https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+1T2017/course/">Essential Statistics for Data Analysis using Excel</a>: Excel para análisis de estadística descriptiva.</li>
+<li><a href="https://www.edx.org/es/course/analyzing-visualizing-data-excel-2">Analyzing and Visualizing Data with Excel</a>: Excel para el análisis y la visualización de diferentes modelos de datos.<br></li>
+</ul>
+
+<h2 id="análisis-estadístico-descriptivo">Análisis estadístico descriptivo</h2>
+
+<h3 id="análisis-mediante-fórmulas">Análisis mediante fórmulas</h3>
+
+<p>Como análisis inicial exploratorio de los valores de una variable, y partiendo de la información indicada en la entrada <a href="https://www.datalaria.com/post/fundamentos/2018-10-07-estadistica-descriptiva/">estadística descriptiva</a>, mediante MS Excel se pueden calcular fácilmente las medidas de tendencia central y variabilidad aplicando las correspondientes fórmulas:</p>
+
+<h4 id="medidas-de-tendencia-central">Medidas de tendencia central</h4>
+
+<p>El cálculo de las medidas de tendencia central se realiza mediante las siguientes fórmulas aplicadas sobre todos los valores de la variable bajo análisis:</p>
+
+<table>
+<thead>
+<tr>
+<th>Medida</th>
+<th>Función en Excel</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Media Aritmética</td>
+<td>PROMEDIO()</td>
+</tr>
+
+<tr>
+<td>Mediana</td>
+<td>MEDIANA()</td>
+</tr>
+
+<tr>
+<td>Moda</td>
+<td>MODA.UNO()</td>
+</tr>
+</tbody>
+</table>
+
+<p><br></p>
+
+<h5 id="ejemplo">Ejemplo:</h5>
+
+<p><img src="/img/excel/excel_ten_cen.png" alt="Excel_tendencia_central" />
+<br></p>
+
+<h4 id="medidas-de-variabilidad">Medidas de variabilidad</h4>
+
+<p>El cálculo de las medidas de variabilidad se realiza mediante las siguientes fórmulas aplicadas sobre todos los valores de la variable bajo análisis:</p>
+
+<table>
+<thead>
+<tr>
+<th>Medida</th>
+<th>Función en Excel</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Rango</td>
+<td>MAX()-MIN()</td>
+</tr>
+
+<tr>
+<td>Varianza</td>
+<td>VAR.S()</td>
+</tr>
+
+<tr>
+<td>Desviación estándar o típica</td>
+<td>DESVEST.M()</td>
+</tr>
+
+<tr>
+<td>Error estándar</td>
+<td>DESVEST.M()/RAIZ(CONTAR())</td>
+</tr>
+</tbody>
+</table>
+
+<p><br></p>
+
+<h5 id="ejemplo-1">Ejemplo:</h5>
+
+<p><img src="/img/excel/excel_var.png" alt="Excel_variabilidad" />
+<br></p>
+
+<h3 id="complemento-herramientas-de-análisis">Complemento Herramientas de Análisis</h3>
+
+<p>MS Excel dispone del complemento <a href="https://support.office.com/es-es/article/usar-las-herramientas-para-an%C3%A1lisis-para-realizar-an%C3%A1lisis-de-datos-complejos-6c67ccf0-f4a9-487c-8dec-bdb5a2cefab6"><strong>&ldquo;Herramientas de Análisis&rdquo;</strong></a> la cual es de gran utilidad para la realización de cálculos estadísticos de una manera rápida y sencilla.</p>
+
+<p>Una vez habilitado siguiendo las indicaciones del anterior enlace, se puede hacer uso de este complemento desde la pestaña de <em>datos</em> en la barra de menús como bien se indica en <a href="https://exceltotal.com/estadistica-descriptiva-en-excel/">exceltotal - Estadística Descriptiva</a>.</p>
+
+<h5 id="ejemplo-resumen-de-estadísticas-descriptivas-mediante-la-herramienta-de-análisis">Ejemplo - Resumen de estadísticas descriptivas mediante la herramienta de análisis:</h5>
+
+<p><img src="/img/excel/ha_analisisdescriptivo.png" alt="Herramientas de Análisis" /></p>
+
+<p>Como podemos observar, se obtienen automáticamente todas las medidas de tendencia central y variabilidad, además de algunas otras medidas como los valores mínimos y máximos de la muestra, la suma de todos sus valores, la cuenta de registros de la muestra y los valores de curtosis y coeficiente de asimetría, los cuales sirven para medir la característica de forma y asimetría de la distribución como se verá en más detalle en la entrada que se hará para sobre la visualización de distribuciones.</p>
+
+<h2 id="modelo-de-datos-de-excel">Modelo de datos de Excel</h2>
+
+<p>El modelo de datos de Excel comenzó en la versión MS Excel 2010 mediante el complemento <em>Power Query</em> y ha sido integrado directamente en Excel en la versión MS Excel 2016. El modelo de datos permite establecer un modelo relacional entre diferentes tablas y explorar y analizar sus datos mediante tablas y gráficos dinámicos. Este modelo supone 3 grandes ventajas respecto a la gestión tradicional de relación entre diferentes tablas basado en el uso de la fórmula <a href="https://support.office.com/es-es/article/funci%C3%B3n-buscarv-0bbc8083-26fe-4963-8ab8-93a18ad188a1">BUSCARV()</a>:</p>
+
+<ul>
+<li><strong>Rapidez</strong>: La actualización de datos relacionados entre diferentes tablas mediante BUSCARV() puede llegar a ser muy lenta dado que se ejecuta un cálculo de búsqueda por cada una de las celdas de nuestras tablas relacionadas.</li>
+<li><strong>Procesamiento de los datos</strong>: A la hora de analizar los datos, es muy probable que sea necesario realizar varias operaciones de manipulación y transformación de los mismos, las cuales no es sencillo de abordar mediante el uso relaciones con BUSCARV().</li>
+<li><strong>Escala</strong>: El tamaño máximo de Excel es de 1 millón de celdas (lo cual es inmantenible mediante relaciones con BUSCARV() por su lentitud). Sin embargo, mediante este nuevo modelo de datos se permite trabajar con órdenes de magnitud de varios millones de datos.</li>
+</ul>
+
+<h3 id="importación-de-datos">Importación de datos</h3>
+
+<p>Las ventajas de llevar a cabo conexiones externas para la importación de datos es la posibilidad de actualización directamente desde el Excel cuando se produce un cambio en el origen de datos, en vez de tener que copiar y pegar todos los datos en una hoja Excel a la hora de trabajar con ellos.</p>
+
+<p>En Excel, la importación de datos externos puede hacerse <a href="https://support.office.com/es-es/article/conectarse-con-datos-externos-importar-9967afd8-85ee-4df3-aa06-753bcc1a2724">directamente en Excel</a>, o bien desde <a href="https://support.office.com/es-es/article/obtener-datos-mediante-el-complemento-power-pivot-f0431904-aab1-49c3-b50c-c6f5d4517a66">el menú de Power Pivot</a>, o desde el <a href="https://support.office.com/es-es/article/importar-datos-de-or%C3%ADgenes-de-datos-externos-power-query-be4330b3-5356-486c-a168-b68e9e616f5a">complemento Power Query</a> integrado en el menú de Excel en la versión MS 2016 y el cual dispone de además de funcionalidades de limpieza y transformación de datos. En el siguiente enlace <a href="http://trucosycursos.es/datos-externos-excel-powerpivot-power-query-power-bi/">TrucosyCursos</a> pueden consultarse las diferentes fuentes u orígenes de datos con los que se puede trabajar en cada una de estas opciones.</p>
+
+<p>Más info sobre las posibilidades de transformación de datos en Power Query:</p>
+
+<ul>
+<li><a href="https://support.office.com/es-es/article/datos-de-formas-power-query-9b2dac2b-e13d-46a4-8940-7bc55f44597d?ui=es-ES&amp;rs=es-ES&amp;ad=ES">Transformación de datos con Power Query</a></li>
+</ul>
+
+<h3 id="tablas-y-gráficos-dinámicas">Tablas y gráficos dinámicas</h3>
+
+<p><a href="https://support.office.com/es-es/article/informaci%C3%B3n-general-sobre-tablas-din%C3%A1micas-y-gr%C3%A1ficos-din%C3%A1micos-527c8fa3-02c0-445a-a2db-7794676bce96">Las tablas y los gráficos dinámicos</a> en MS Excel son una forma de analizar grandes volúmenes de datos de manera sencilla e interactiva. Esta utilidad que está disponible desde la versión MS Excel 2007, es especialmente interesante en las últimas versiones de excel donde se permiten más posibilidades de análisis según los tipos de datos utilizados y se mejoran las opciones y tipos de visualización de los gráficos.</p>
+
+<p>Las tablas dinámicas consisten en una manera de analizar rápidamente los datos presentados en una <a href="https://support.office.com/es-es/article/crear-tablas-y-aplicarles-formato-e81aa349-b006-4f8a-9806-5af9df0ac664">tabla</a> mediante un resumen matricial de la información o medidas requeridas.</p>
+
+<p>Los <a href="https://support.office.com/es-es/article/crear-un-gr%C3%A1fico-din%C3%A1mico-c1b1e057-6990-4c38-b52b-8255538e7b1c">gráficos dinámicos</a> representan visualmente la información de datos de una tabla. Como se puede ver en el video del enlace la creación de estos gráficos también es similar a la creación de una tabla dinámica.
+<br></p>
+
+<h5 id="ejemplo-dataset-train-csv-titanic-https-www-kaggle-com-c-titanic-data">Ejemplo <a href="https://www.kaggle.com/c/titanic/data">Dataset train.csv Titanic</a>:</h5>
+
+<p>A continuación vamos a representar un ejemplo de tabla y gráfico dinámico de los datos recogidos en <em>train.csv</em>:</p>
+
+<p><img src="/img/excel/ejemplo_tablas_train.png" alt="tabla fichero train.csv" /></p>
+
+<h6 id="ejemplo-de-tabla-dinámica">Ejemplo de Tabla dinámica</h6>
+
+<p>Mediante una tabla dinámica vamos a visualizar los datos del número de supervivientes por lugar de embarque (variable recogida en las filas) por género (variable recogida en las columnas):</p>
+
+<p><img src="/img/excel/ejemplo_tablas_train_td.png" alt="tabla dinámica fichero train.csv" /></p>
+
+<h6 id="ejemplo-de-gráfico-dinámico">Ejemplo de Gráfico dinámico</h6>
+
+<p>Del mismo modo visualizamos mediante un gráfico dinámico los mismos datos del número de supervivientes por lugar de embarque (variable recogida en las filas) por género (variable recogida en las columnas):
+<img src="/img/excel/ejemplo_tablas_train_gd.png" alt="gráfico dinámico fichero train.csv" /></p>
+
+<h3 id="power-pivot">Power Pivot</h3>
+
+<p><a href="https://support.office.com/es-es/article/introducci%C3%B3n-a-powerpivot-en-microsoft-excel-fdfcf944-7876-424a-8437-1a6c1043a80b">Power Pivot</a> es un complemento de Excel que proporciona características avanzadas para realizar análisis de datos y crear sofisticados modelos de datos. PowerPivot, puede mezclar grandes volúmenes de datos de varios orígenes, realizar análisis de información rápidamente y compartir información con facilidad.</p>
+
+<p>Tanto en Excel y Powerpivot se pueden crear modelos de datos como una colección de tablas con relaciones. Los datos de un modelo en Excel o PowerPivot están disponibles en ambos casos. La <a href="https://support.office.com/es-es/article/power-pivot-an%C3%A1lisis-de-datos-eficaz-y-modelado-de-datos-en-excel-a9c2c6e2-cc49-4976-a7d7-40896795d045">gran diferencia</a> entre ambos modos de trabajo es que mediante Power Pivot se pueden crear modelos de datos más sofisticados que permiten llevar a cabo análisis más avanzados.</p>
+
+<h3 id="dax">DAX</h3>
+
+<p><a href="https://msdn.microsoft.com/en-us/query-bi/dax/data-analysis-expressions-dax-reference">Data Analysis Expressions (DAX)</a> es un lenguaje de análisis de datos que consta de fórmulas y expresiones para el cálculo de medidas a partir de datos tabulados en las herramientas Microsoft PowerPivot, Power BI Desktop y SQL Server Analysis Services (SSAS).</p>
+
+<p>Mediante la utilización de este lenguaje se pueden definir <a href="https://support.office.com/en-us/article/calculated-columns-in-power-pivot-a0eb7167-33fc-4ade-a23f-fb9217c193af?ui=en-US&amp;rs=en-US&amp;ad=US">Columnas Calculadas</a> y <a href="https://support.office.com/en-us/article/measures-in-power-pivot-86484821-a324-4da3-803b-82fd2e5033f4?ui=en-US&amp;rs=en-US&amp;ad=US">Medidas</a> las cuales se irán calculando dinámicamente en nuestras tablas dinámicas en función del contexto definido en éstas mediante las columnas, filas, filtros o datos segmentados que se vayan seleccionando.</p>
+
+<p>En DAX las funciones referencian a una columna o una tabla completa, pudiéndose añadir filtros para recoger valores específicos.</p>
+
+<p>Más info sobre DAX:</p>
+
+<ul>
+<li><a href="https://social.technet.microsoft.com/wiki/contents/articles/1088.dax-resource-center.aspx">The DAX Resource Center Wiki</a></li>
+<li><a href="https://msdn.microsoft.com/library/gg413422.aspx?redirectSourcePath=%252fen-us%252farticle%252fData-Analysis-Expressions-DAX-Reference-411c6891-614d-438c-bf45-c7e061dd9e08">Referencia de expresiones de análisis de datos (DAX)</a></li>
+<li><a href="https://www.microsoft.com/en-us/download/details.aspx?id=28572">DAX in the BI Tabular Model Whitepaper and Samples</a></li>
+</ul>
+
+<h3 id="compatibilidad-con-power-bi">Compatibilidad con Power BI</h3>
+
+<p><a href="https://powerbi.microsoft.com/es-es/">Power BI</a> es un servicio de herramientas de análisis empresarial de Microsoft. Mediante este servicio se puede generar paneles de información visual personalizados y con diferentes niveles de accesibilidad que estén al alcance de todos mediante consultas online ya sea a través de un equipo informático o de un dispositivo móvil. Su objetivo es proporcionar información analítica de valor para la empresa de manera simplificada y muy visual para poder agilizar las tomas de decisiones.</p>
+
+<p>La <a href="https://docs.microsoft.com/es-es/power-bi/service-excel-workbook-files">compatibilidad de Excel con Power BI</a> puede realizarse de 2:</p>
+
+<ul>
+<li>Importación directa del modelo de fundamentos: Se importa el modelo de datos a Power BI y se trabaja de manera independiente al modelo de datos original en Excel.</li>
+<li>Conexión, Gestión y Visualización de Excel en Power BI: Se puede trabajar sobre el modelo de datos original mediante la función Excel Online de Power BI que permite trabajar en Excel sobre un navegador y visualizaremos los gráficos dinámicos generados en Excel originalmente sobre dicho modelo de datos.</li>
+</ul>
+
+<p><br></p>
+
+<h4 id="fuentes-de-interés">Fuentes de interés:</h4>
+
+<ul>
+<li>Curso <em>“<a href="https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+1T2017/course/">Essential Statistics for Data Analysis using Excel</a>”</em> perteneciente  al Microsoft Data Science Program</li>
+<li>Curso <em>“<a href="https://www.edx.org/es/course/analyzing-visualizing-data-excel-2">Analyzing and Visualizing Data with Excel</a>”</em> perteneciente  al Microsoft Data Science Program</li>
+<li>Workana – <a href="https://www.workana.com/blog/emprendimiento/ademas-de-excel-las-8-mejores-opciones-de-programas-para-hacer-hojas-de-calculo/">Herramientas de hojas de cálculo alternativas a MS Excel</a></li>
+<li>Support Microsoft - <a href="https://support.office.com/es-es/article/usar-las-herramientas-para-an%C3%A1lisis-para-realizar-an%C3%A1lisis-de-datos-complejos-6c67ccf0-f4a9-487c-8dec-bdb5a2cefab6">Complemento Herramientas de análisis</a></li>
+<li>ExcelTotal - <a href="https://exceltotal.com/estadistica-descriptiva-en-excel/">Estadística descriptiva en Excel</a></li>
+<li>Support Microsoft - <a href="https://support.office.com/es-es/article/funci%C3%B3n-buscarv-0bbc8083-26fe-4963-8ab8-93a18ad188a1">Función BUSCARV</a></li>
+<li>Support Microsoft - <a href="https://support.office.com/es-es/article/conectarse-con-datos-externos-importar-9967afd8-85ee-4df3-aa06-753bcc1a2724">Conectarse con datos externos (importar)</a></li>
+<li>Support Microsoft - <a href="https://support.office.com/es-es/article/obtener-datos-mediante-el-complemento-power-pivot-f0431904-aab1-49c3-b50c-c6f5d4517a66">Obtener datos mediante el complemento Power Pivot</a></li>
+<li>Support Microsoft - <a href="https://support.office.com/es-es/article/importar-datos-de-or%C3%ADgenes-de-datos-externos-power-query-be4330b3-5356-486c-a168-b68e9e616f5a">Importar datos de orígenes de datos externos (Power Query)</a></li>
+<li>TrucosyCursos - <a href="http://trucosycursos.es/datos-externos-excel-powerpivot-power-query-power-bi/">Datos externos en Excel, PowerPivot, Power Query y Power BI</a></li>
+<li>Support Microsoft - <a href="https://support.office.com/en-us/article/Shape-data-Power-Query-9b2dac2b-e13d-46a4-8940-7bc55f44597d?ui=en-US&amp;rs=en-US&amp;ad=US">Shape data (Power Query)</a></li>
+<li>Support Microsoft - <a href="https://support.office.com/es-es/article/informaci%C3%B3n-general-sobre-tablas-din%C3%A1micas-y-gr%C3%A1ficos-din%C3%A1micos-527c8fa3-02c0-445a-a2db-7794676bce96">Información general sobre tablas dinámicas y gráficos dinámicos</a></li>
+<li>Support Microsoft - <a href="https://support.office.com/es-es/article/introducci%C3%B3n-a-powerpivot-en-microsoft-excel-fdfcf944-7876-424a-8437-1a6c1043a80b">Introducción a PowerPivot en Microsoft Excel</a></li>
+<li>Support Microsoft - <a href="https://support.office.com/es-es/article/power-pivot-an%C3%A1lisis-de-datos-eficaz-y-modelado-de-datos-en-excel-a9c2c6e2-cc49-4976-a7d7-40896795d045">Power Pivot: análisis de datos eficaz y modelado de datos en Excel</a></li>
+<li>Support Microsoft - <a href="https://support.office.com/en-us/article/calculated-columns-in-power-pivot-a0eb7167-33fc-4ade-a23f-fb9217c193af?ui=en-US&amp;rs=en-US&amp;ad=US">Calculated Columns in Power Pivot</a></li>
+<li>Support Microsoft - <a href="https://support.office.com/en-us/article/measures-in-power-pivot-86484821-a324-4da3-803b-82fd2e5033f4?ui=en-US&amp;rs=en-US&amp;ad=US">Measures in Power Pivot</a></li>
+<li>Social TechNet Microsoft - <a href="https://social.technet.microsoft.com/wiki/contents/articles/1088.dax-resource-center.aspx">DAX Resource Center</a></li>
+<li>MSDN Microsoft - <a href="https://msdn.microsoft.com/library/gg413422.aspx?redirectSourcePath=%252fen-us%252farticle%252fData-Analysis-Expressions-DAX-Reference-411c6891-614d-438c-bf45-c7e061dd9e08">Referencia de expresiones de análisis de datos (DAX)</a></li>
+<li>Microsoft.com - <a href="https://www.microsoft.com/en-us/download/details.aspx?id=28572">DAX in the BI Tabular Model Whitepaper and Samples</a></li>
+<li>Página oficial PowerBI - <a href="https://powerbi.microsoft.com/es-es/">powerbi.microsoft.com</a></li>
+<li>Microsoft.com - <a href="https://docs.microsoft.com/es-es/power-bi/service-excel-workbook-files">Obtención de datos de archivos de libro de Excel</a></li>
+</ul>
+
+
+        
+          <div class="blog-tags">
+            
+              <a href="https://www.datalaria.com//tags/excel/">excel</a>&nbsp;
+            
+              <a href="https://www.datalaria.com//tags/hojas/">hojas</a>&nbsp;
+            
+              <a href="https://www.datalaria.com//tags/c%C3%A1lculo/">cálculo</a>&nbsp;
+            
+              <a href="https://www.datalaria.com//tags/tablas/">tablas</a>&nbsp;
+            
+              <a href="https://www.datalaria.com//tags/vba/">VBA</a>&nbsp;
+            
+              <a href="https://www.datalaria.com//tags/datos/">datos</a>&nbsp;
+            
+              <a href="https://www.datalaria.com//tags/an%C3%A1lisis/">análisis</a>&nbsp;
+            
+          </div>
+        
+
+        
+            <hr/>
+            <section id="social-share">
+              <ul class="list-inline footer-links">
+                
+
+
+<li>
+    <a href="//twitter.com/share?url=https%3a%2f%2fwww.datalaria.com%2fpost%2futilidades%2f2018-10-14-excel%2f&amp;text=Excel%20%28Hojas%20de%20C%c3%a1lculo%29&amp;via=datalaria"
+       target="_blank" alt="" title="Share on Twitter">
+        <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+    </a>
+</li>
+
+
+<li>
+    <a href="//plus.google.com/share?url=https%3a%2f%2fwww.datalaria.com%2fpost%2futilidades%2f2018-10-14-excel%2f" target="_blank" title="Share on Google Plus">
+         <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+              </span>
+    </a>
+</li>
+
+
+<li>
+    <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.datalaria.com%2fpost%2futilidades%2f2018-10-14-excel%2f" target="_blank" title="Share on Facebook">
+        <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+              </span>
+    </a>
+</li>
+
+
+<li>
+    <a href="//reddit.com/submit?url=https%3a%2f%2fwww.datalaria.com%2fpost%2futilidades%2f2018-10-14-excel%2f&amp;title=Excel%20%28Hojas%20de%20C%c3%a1lculo%29" target="_blank" title="Share on Reddit">
+         <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-reddit fa-stack-1x fa-inverse"></i>
+              </span>
+    </a>
+</li>
+
+
+<li>
+    <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.datalaria.com%2fpost%2futilidades%2f2018-10-14-excel%2f&amp;title=Excel%20%28Hojas%20de%20C%c3%a1lculo%29" target="_blank"
+       title="Share on LinkedIn">
+         <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+              </span>
+    </a>
+</li>
+
+
+<li>
+    <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fwww.datalaria.com%2fpost%2futilidades%2f2018-10-14-excel%2f&amp;title=Excel%20%28Hojas%20de%20C%c3%a1lculo%29" target="_blank"
+       title="Share on StumbleUpon">
+        <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-stumbleupon fa-stack-1x fa-inverse"></i>
+              </span>
+    </a>
+</li>
+
+
+<li>
+    <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fwww.datalaria.com%2fpost%2futilidades%2f2018-10-14-excel%2f&amp;description=Excel%20%28Hojas%20de%20C%c3%a1lculo%29" target="_blank"
+       title="Share on Pinterest">
+         <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
+              </span>
+    </a>
+</li>
+
+              </ul>
+            </section>
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://www.datalaria.com/post/fundamentos/2018-10-07-estadistica-descriptiva/" data-toggle="tooltip" data-placement="top" title="Estadística Descriptiva">&larr; Artículo anterior</a>
+            </li>
+          
+          
+        </ul>
+      
+
+
+      
+        
+        
+          <div class="staticman-comments">
+            <section class="js-comments staticman-comments">
+
+  
+
+  
+
+
+
+<form class="js-form form" method="post" action="https://datalaria-staticman.herokuapp.com/v2/entry/datalaria/blog/master/comments">
+  <input type="hidden" name="options[slug]" value="postutilidades2018-10-14-excel">
+  <input type="hidden" name="options[parent]" value="">
+
+  
+  <input type="hidden" name="options[reCaptcha][siteKey]" value="6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu">
+  <input type="hidden" name="options[reCaptcha][secret]"  value="Qk9SvaX/2uB8fQZtzK9K3&#43;Oy5YWg/QL9hFmemJr/L3lNtijJjOItbxF8Gyzl3gmwZmAP/gzSMuWKQ4tDBUBS0O0eGf2LfgdTfiv/bNJbT0EryImDiz&#43;k5v&#43;CH4AqmeVT1BYAdCY/JkuVsaUXq2V5WJ0pgTMYxdAyp1CkjzGct8U=">
+  
+
+  <fieldset>
+  <div class="textfield">
+    <textarea name="fields[comment]" type="text" placeholder="You can use Markdown syntax"></textarea>
+  </div>
+  </fieldset>
+
+  <fieldset>
+    <div class="textfield">
+      <input name="fields[name]" type="text" placeholder="Your name"/>
+    </div>
+  </fieldset>
+
+  <fieldset>
+    <div class="textfield">
+      <input type="email" name="fields[email]"  placeholder="Your email address"/>
+    </div>
+  </fieldset>
+
+
+  
+  <fieldset>
+    <div class="g-recaptcha" data-sitekey="6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu"></div>
+  </fieldset>
+  
+
+  <fieldset>
+    <button class="button">
+      Submit
+    </button>
+  </fieldset>
+</form>
+</section>
+
+<article class="modal">
+  <div class="title">
+    <h2 class="js-modal-title"></h2>
+  </div>
+  <div class="js-modal-text"></div>
+  <div>
+    <button class="js-close-modal">Close</button>
+  </div>
+</article>
+
+          </div>
+        
+      
+
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+                <a href="mailto:datalaria@gmail.com" title="Email me">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://plus.google.com/109028448665903718613" title="Google&#43;">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/datalaria" title="GitHub">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/datalaria" title="Twitter">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://linkedin.com/in/daniel-al%c3%a1ez-ria%c3%b1o-362257132" title="LinkedIn">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://stackoverflow.com/users/9717082/datalaria" title="StackOverflow">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-stack-overflow fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+          <li>
+            
+            <a href="https://www.datalaria.com/index.xml" title="RSS">
+            
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+            
+              <a href="https://www.datalaria.com/">Datalaria</a>
+            
+          
+
+          &nbsp;&bull;&nbsp;
+          2018
+
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="http://gohugo.io">Hugo v0.37.1</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://www.datalaria.com/js/main.js"></script>
+<script src="https://www.datalaria.com/js/staticman.js"></script>
+<script src="https://www.datalaria.com/js/highlight.min.js"></script>
+<script> hljs.initHighlightingOnLoad(); </script>
+<script> $(document).ready(function() {$("pre.chroma").css("padding","0");}); </script><script> renderMathInElement(document.body); </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script>
+<script src="https://www.datalaria.com/js/load-photoswipe.js"></script>
+
+
+
+
+
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+  </script>
+  </body>
+</html>

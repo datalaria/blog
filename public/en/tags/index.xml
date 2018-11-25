@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
-    <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datalaria.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analysis</title>
+      <link>https://www.datalaria.com/en/tags/analysis/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://www.datalaria.com/en/tags/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calcaulate</title>
+      <link>https://www.datalaria.com/en/tags/calcaulate/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://www.datalaria.com/en/tags/calcaulate/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Course</title>
@@ -33,7 +51,7 @@
     <item>
       <title>Data</title>
       <link>https://www.datalaria.com/en/tags/data/</link>
-      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>https://www.datalaria.com/en/tags/data/</guid>
       <description></description>
@@ -54,6 +72,15 @@
       <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>https://www.datalaria.com/en/tags/distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excel</title>
+      <link>https://www.datalaria.com/en/tags/excel/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://www.datalaria.com/en/tags/excel/</guid>
       <description></description>
     </item>
     
@@ -175,6 +202,15 @@
     </item>
     
     <item>
+      <title>Spreadsheet</title>
+      <link>https://www.datalaria.com/en/tags/spreadsheet/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://www.datalaria.com/en/tags/spreadsheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Statistics</title>
       <link>https://www.datalaria.com/en/tags/statistics/</link>
       <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
@@ -184,11 +220,29 @@
     </item>
     
     <item>
+      <title>Tables</title>
+      <link>https://www.datalaria.com/en/tags/tables/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://www.datalaria.com/en/tags/tables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Track</title>
       <link>https://www.datalaria.com/en/tags/track/</link>
       <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>https://www.datalaria.com/en/tags/track/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vba</title>
+      <link>https://www.datalaria.com/en/tags/vba/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://www.datalaria.com/en/tags/vba/</guid>
       <description></description>
     </item>
     
