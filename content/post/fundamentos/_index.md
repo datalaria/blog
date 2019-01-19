@@ -1,6 +1,6 @@
 ---
 title: Fundamentos
-date: 2018-08-21
+date: 2019-01-05
 draft: true
 categories: ["fundamentos"]
 ---
