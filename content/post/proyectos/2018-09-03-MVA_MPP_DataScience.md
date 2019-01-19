@@ -1,6 +1,6 @@
 ---
 title: Programa Profesional de Microsoft para la Ciencia de datos
-date: 2018-09-03
+date: 2018-12-29
 draft: False
 categories: ["proyectos"]
 tags: ["Microsoft", "Data", "Science", "Track", "Programa", "Curso"]

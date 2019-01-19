@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
-    <lastBuildDate>Sun, 14 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datalaria.com/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Excel (Spreadsheet)</title>
       <link>https://www.datalaria.com/en/post/utilidades/2018-10-14-excel/</link>
-      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>https://www.datalaria.com/en/post/utilidades/2018-10-14-excel/</guid>
       <description>Spreadsheet tools as Microsoft Excel, Google Spreadsheet, Apache OpenOffice Calc (see other alternatives in maketecheasier) could be considered as a basic or introductory tool for data analysis.
@@ -25,7 +25,7 @@ In this post, we are going to focus on the tool MS Excel 2016 as a basic introdu
     <item>
       <title>Descriptive Statistics</title>
       <link>https://www.datalaria.com/en/post/fundamentos/2018-10-07-estadistica-descriptiva/</link>
-      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>https://www.datalaria.com/en/post/fundamentos/2018-10-07-estadistica-descriptiva/</guid>
       <description>As a starting point in data analysis, it is necessary to know some mathematical and statistical foundations in order to work with the information to be analyzed.
@@ -36,7 +36,7 @@ Population, Samples, Individuals and Variables:  Population: The set of all the 
     <item>
       <title>Microsoft Professional Program for Data Science</title>
       <link>https://www.datalaria.com/en/post/proyectos/2018-09-03-mva_mpp_datascience/</link>
-      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>https://www.datalaria.com/en/post/proyectos/2018-09-03-mva_mpp_datascience/</guid>
       <description>As a first step in the data science learning track, and inside the Microsoft Virtual Academy, you can find the Microsoft Professional Program for Data Science course delivered through the online learning platform edX.
@@ -46,7 +46,7 @@ How it works? This program, certified by Microsoft, is made up of 3 units with 1
     <item>
       <title>Florence Nightingale - The mother of Nursing</title>
       <link>https://www.datalaria.com/en/post/casos_exito/2018-08-21-florence-nightingale/</link>
-      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>https://www.datalaria.com/en/post/casos_exito/2018-08-21-florence-nightingale/</guid>
       <description>We are opening the Success Stories category with Florence Nightingale (12/05/1920 – 13/08/1910), british nurse, writer and statistician, who is considered the mother of nursing and one of the first data scientist in history.
@@ -56,7 +56,7 @@ Her story is especially relevant given that, in addition to fighting for the wom
     <item>
       <title>Starting up</title>
       <link>https://www.datalaria.com/en/post/startup/</link>
-      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>https://www.datalaria.com/en/post/startup/</guid>
       <description>The purpose of this blog is to carry out a personal R &amp;amp; D work focused on the world of data science. Research focused on the study and learning in the data analysis, its tools and application areas and tools and, Development putting into practice the different concepts studied or analyzed with two goals:

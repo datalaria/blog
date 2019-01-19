@@ -1,6 +1,6 @@
 ---
 title: Florence Nightingale - The mother of Nursing
-date: 2018-08-21
+date: 2018-12-15
 draft: False
 categories: ["success_stories"]
 tags: ["Nursing", "Florence", "Nightingale", "Healthcare", "Health", "Crimea"]

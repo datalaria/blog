@@ -1,6 +1,6 @@
 ---
 title: Microsoft Professional Program for Data Science
-date: 2018-09-03
+date: 2018-12-29
 draft: False
 categories: ["projects"]
 tags: ["Microsoft", "Data", "Science", "Track", "Program", "Course"]

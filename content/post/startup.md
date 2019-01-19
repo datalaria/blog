@@ -1,6 +1,6 @@
 ---
 title: Arrancamos
-date: 2018-03-28
+date: 2018-12-01
 draft: False
 categories: [""]
 tags: ["estadistica", "descriptiva", "general", "bienvenida", "inicio"]

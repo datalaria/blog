@@ -1,6 +1,6 @@
 ---
 title: Estadística Descriptiva
-date: 2018-10-07
+date: 2019-01-05
 draft: False
 categories: ["fundamentos"]
 tags: ["estadística", "matemáticas", "distribucion", "normal", "gaussiana"]

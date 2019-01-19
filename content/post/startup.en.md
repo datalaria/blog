@@ -1,6 +1,6 @@
 ---
 title: Starting up
-date: 2018-03-28
+date: 2018-12-01
 draft: False
 categories: ["foundations"]
 tags: ["statistics", "descriptive", "general", "welcome", "first"]
