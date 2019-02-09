@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snow on </title>
+    <link>https://www.datalaria.com/en/tags/snow/</link>
+    <description>Recent content in Snow on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
+    <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
+    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.datalaria.com/en/tags/snow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The authentic John Snow, a precursor of Geolocation</title>
+      <link>https://www.datalaria.com/en/post/casos_exito/2019-02-09-john-snow/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://www.datalaria.com/en/post/casos_exito/2019-02-09-john-snow/</guid>
+      <description>Despite the fact that nowadays, for the great majority of people, the name of John Snow brings to his mind to Aegon Targaryen or the heir to the iron throne, there is actually another, perhaps less popular, John Snow (United Kingdom 15/03/1813 - 16/06/1858). This another John Snow should be known as a precursor or forerunner of epidemiology and geolocation and one of the references in the field of dissemination of data thanks to its Cholera map of 1854.</description>
+    </item>
+    
+  </channel>
+</rss>

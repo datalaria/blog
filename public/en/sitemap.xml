@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.datalaria.com/en/post/casos_exito/2019-02-09-john-snow/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.datalaria.com/post/casos_exito/2019-02-09-john-snow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datalaria.com/en/post/casos_exito/2019-02-09-john-snow/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.datalaria.com/en/post/utilidades/2018-10-14-excel/</loc>
     <lastmod>2019-01-19T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -109,7 +124,7 @@
   
   <url>
     <loc>https://www.datalaria.com/en/</loc>
-    <lastmod>2019-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -148,6 +163,12 @@
                 hreflang="en"
                 href="https://www.datalaria.com/en/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.datalaria.com/en/tags/cholera/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -267,6 +288,28 @@
   </url>
   
   <url>
+    <loc>https://www.datalaria.com/en/tags/geolocation/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.datalaria.com/en/tags/gis/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.datalaria.com/tags/gis/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datalaria.com/en/tags/gis/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.datalaria.com/en/tags/health/</loc>
     <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -275,6 +318,34 @@
   <url>
     <loc>https://www.datalaria.com/en/tags/healthcare/</loc>
     <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.datalaria.com/en/tags/john/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.datalaria.com/tags/john/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datalaria.com/en/tags/john/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datalaria.com/en/tags/london/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.datalaria.com/en/tags/map/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -356,7 +427,7 @@
   
   <url>
     <loc>https://www.datalaria.com/en/post/</loc>
-    <lastmod>2019-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -399,6 +470,22 @@
   </url>
   
   <url>
+    <loc>https://www.datalaria.com/en/tags/snow/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.datalaria.com/tags/snow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datalaria.com/en/tags/snow/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.datalaria.com/en/tags/spreadsheet/</loc>
     <lastmod>2019-01-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -412,7 +499,7 @@
   
   <url>
     <loc>https://www.datalaria.com/en/categories/success_stories/</loc>
-    <lastmod>2018-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
