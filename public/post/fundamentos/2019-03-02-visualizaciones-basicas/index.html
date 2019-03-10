@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Visualizaciones básicas</title>
+  <meta property="og:title" content="Visualizaciones básicas" />
+  <meta name="twitter:title" content="Visualizaciones básicas" />
+  <meta name="description" content="Continuando con la información expuesta en el post estadística descriptiva, a continuación, vamos a conocer las maneras más básicas de visualizar los datos o la información a analizar. Concretamente:
+ Gráficos de tarta Gráficos de línea Gráficos de rectángulo y proyección solar Histogramas y diagramas de barras Gráficos de densidad Gráficos de caja (Boxplots) Gráficos de violin Gráficos de dispersión Gráficos de Pareto  Nota: Para todos los ejemplos (excepto para los gráficos de línea por sus características) se va a utilizar como dataset el fichero train.">
+  <meta property="og:description" content="Continuando con la información expuesta en el post estadística descriptiva, a continuación, vamos a conocer las maneras más básicas de visualizar los datos o la información a analizar. Concretamente:
+ Gráficos de tarta Gráficos de línea Gráficos de rectángulo y proyección solar Histogramas y diagramas de barras Gráficos de densidad Gráficos de caja (Boxplots) Gráficos de violin Gráficos de dispersión Gráficos de Pareto  Nota: Para todos los ejemplos (excepto para los gráficos de línea por sus características) se va a utilizar como dataset el fichero train.">
+  <meta name="twitter:description" content="Continuando con la información expuesta en el post estadística descriptiva, a continuación, vamos a conocer las maneras más básicas de visualizar los datos o la información a analizar. Concretamente: …">
+  <meta name="author" content="Datalaria"/>
+  <link href='https://www.datalaria.com/img/datalaria-icon.ico' rel='icon' type='image/x-icon'/>
+  <meta property="og:image" content="https://www.datalaria.com/img/visualizaciones/visualizaciones_basicas.png" />
+  <meta name="twitter:image" content="https://www.datalaria.com/img/visualizaciones/visualizaciones_basicas.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@datalaria" />
+  <meta name="twitter:creator" content="@datalaria" />
+  <meta property="og:url" content="https://www.datalaria.com/post/fundamentos/2019-03-02-visualizaciones-basicas/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="" />
+
+  <meta name="generator" content="Hugo 0.37.1" />
+  <link rel="canonical" href="https://www.datalaria.com/post/fundamentos/2019-03-02-visualizaciones-basicas/" />
+  <link rel="alternate" href="https://www.datalaria.com/index.xml" type="application/rss+xml" title="">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://www.datalaria.com/css/main.css" /><link rel="stylesheet" href="https://www.datalaria.com/css/staticman.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="https://www.datalaria.com/css/highlight.min.css" /><link rel="stylesheet" href="https://www.datalaria.com/css/codeblock.css" /><script src='https://www.google.com/recaptcha/api.js'></script>
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-125566214-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Conmuta navegación</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://www.datalaria.com/"></a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li>
+              <a title="Blog" href="/">Blog</a>
+            </li>
+          
+        
+          
+            <li class="navlinks-container">
+              <a class="navlinks-parent" href="javascript:void(0)">Categorias</a>
+              <div class="navlinks-children">
+                
+                  <a href="/categories/fundamentos">Fundamentos</a>
+                
+                  <a href="/categories/proyectos">Proyectos</a>
+                
+                  <a href="/categories/casos_exito">Casos de Éxito</a>
+                
+                  <a href="/categories/utilidades">Utilidades</a>
+                
+              </div>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Etiquetas" href="/tags">Etiquetas</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Contacto" href="/page/contact/">Contacto</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="Sobre mí" href="/page/about/">Sobre mí</a>
+            </li>
+          
+        
+
+        
+          
+            <li>
+              
+                
+              
+                
+                  <a href="/en" lang="en">EN</a>
+                
+              
+            </li>
+          
+        
+
+        
+      </ul>
+    </div>
+
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        
+          <a title="" href="https://www.datalaria.com/">
+            <img class="avatar-img" src="https://www.datalaria.com/img/datalaria-logo.png" alt="" />
+          </a>
+        
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+
+
+
+    
+  
+  
+  
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="post-heading">
+              <h1>Visualizaciones básicas</h1>
+                
+                
+                  <span class="post-meta">
+  
+  
+  <i class="fa fa-calendar-o"></i>&nbsp;Publicado el 02-03-2019
+  
+  
+  &nbsp;|&nbsp;
+  <i class="fa fa-clock-o"></i> 6 minutos (1238 palabras)
+  &nbsp;|&nbsp;  <i class="fa fa-comment-o"></i>
+    
+    
+      
+      
+        0 comment
+      
+    
+  
+  &nbsp;&bull;&nbsp; Otros idiomas: <a href="https://www.datalaria.com/en/post/fundamentos/2019-03-02-visualizaciones-basicas/" lang="en">EN</a>
+</span>
+
+
+                
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        
+
+<p>Continuando con la información expuesta en el post <a href="https://www.datalaria.com/post/fundamentos/2018-10-07-estadistica-descriptiva/">estadística descriptiva</a>, a continuación, vamos a conocer las maneras más básicas de visualizar los datos o la información a analizar. Concretamente:</p>
+
+<ul>
+<li><strong><a href="#grafico_tarta">Gráficos de tarta</a></strong></li>
+<li><strong><a href="#grafico_linea">Gráficos de línea</a></strong></li>
+<li><strong><a href="#grafico_jerarquico">Gráficos de rectángulo y proyección solar</a></strong></li>
+<li><strong><a href="#histogramas">Histogramas y diagramas de barras</a></strong></li>
+<li><strong><a href="#grafico_densidad">Gráficos de densidad</a></strong></li>
+<li><strong><a href="#grafico_caja">Gráficos de caja (Boxplots)</a></strong></li>
+<li><strong><a href="#grafico_violin">Gráficos de violin</a></strong></li>
+<li><strong><a href="#grafico_dispersion">Gráficos de dispersión</a></strong></li>
+<li><strong><a href="#grafico_pareto">Gráficos de Pareto</a></strong></li>
+</ul>
+
+<p><em>Nota: Para todos los ejemplos (excepto para los gráficos de línea por sus características) se va a utilizar como dataset el fichero train.csv un subconjunto de 891 individuos representativo de la población del Titanic utilizado para el entrenamiento de modelos de Aprendizaje automático.</em></p>
+
+<h2 id="a-name-grafico-tarta-a-gráficos-de-tarta"><a name="grafico_tarta"></a>Gráficos de tarta</h2>
+
+<p>Los gráficos de tarta o circulares (en inglés <em>pie charts</em>) son utilizados para representar la proporción de los datos de una variable o característica según su valor respecto al total de los mismos. Este tipo de gráficos presentan multitud de variantes y son ampliamente utilizados debido a su sencillez de preparación e interpretación. Sin embargo, muchas veces se abusa de este tipo de gráficos o se utilizan indebidamente (ver el siguiente <a href="https://www.elartedepresentar.com/2011/11/las-tartas-son-para-el-postre-5-razones-por-las-que-no-uso-graficos-circulares/">artículo sobre el mal uso de los gráficos de tarta</a>).</p>
+
+<ul>
+<li>Ejemplo: Proporciones de pasajeros del Titanic por estatus socioeconómico</li>
+</ul>
+
+<p><img src="/img/visualizaciones/grafico_tarta.png" alt="Grafico_tarta" /></p>
+
+<h2 id="a-name-grafico-linea-a-gráficos-de-línea"><a name="grafico_linea"></a>Gráficos de Línea</h2>
+
+<p>Los gráficos de línea se utilizan para mostrar los datos de una variable sobre una secuencia de datos continuados. Generalmente, se utilizan para representar tendencias o relaciones (en agrupación con más variables) entre los datos durante un intervalo de tiempo continuo.</p>
+
+<p><em>Nota: Con el fin de visualizar un caso de uso en un intervalo de tiempo continuo, para los siguientes ejemplos se ha utilizado el dataset de la biblioteca de datos públicos del Gobierno de España sobre <a href="https://datos.gob.es/es/catalogo/ea0010587-poblacion-por-comunidades-y-ciudades-autonomas-y-tamano-de-los-municipios-anual-comunidades-autonomas-cifras-oficiales-de-poblacion-de-los-municipios-espanoles-revision-del-padron-municipal-identificador-api-2915">los datos de población por comunidades autónomas en la serie histórica desde 1997 a 2017.</a></em><br />
+</br></p>
+
+<ul>
+<li><p>Ejemplo: Población española desde 1997
+<img src="/img/visualizaciones/grafico_linea1.png" alt="Grafico_linea_1" />
+</br></p></li>
+
+<li><p>Ejemplo: Población española por comunidades desde 1997
+<img src="/img/visualizaciones/grafico_linea2.png" alt="Grafico_linea_21" /></p></li>
+</ul>
+
+<h2 id="a-name-grafico-jerarquico-a-gráficos-de-rectángulo-y-proyección-solar"><a name="grafico_jerarquico"></a>Gráficos de rectángulo y proyección solar</h2>
+
+<p>Los gráficos de rectángulos (en inglés <em>treemaps</em>) y los gráficos de proyección solar (en inglés <em>sunburst</em>) son visualizaciones para representar datos jerárquicos y resumir la información en áreas proporcionales a los valores correspondientes.</p>
+
+<p>En el caso gráficos de rectángulos, la representación consiste en agrupaciones de los datos mediante rectángulos con un área proporcional a su valor respecto al total.<br />
+</br></p>
+
+<ul>
+<li>Ejemplo: Proporción de pasajeros según su estatus socioeconómico clasificados por género (gráfico rectángulo)<br /></li>
+</ul>
+
+<p><img src="/img/visualizaciones/grafico_rectangulo.png" alt="Grafico_rectangulo" /></p>
+
+<p>En el caso de los gráficos de proyección solar, la representación consiste en agrupaciones de los datos mediante diferentes anillos según el nivel representado, y éstos a su vez, se dividen a en partes proporcionales al valor de los datos que representan.
+</br></p>
+
+<ul>
+<li>Ejemplo: Proporción de pasajeros según su estatus socioeconómico clasificados por género (gráfico proyección solar)</li>
+</ul>
+
+<p><img src="/img/visualizaciones/grafico_proyeccion_solar.png" alt="Grafico_rectangulo" /></p>
+
+<p>Sobre el ejemplo representado, se puede apreciar rápidamente información sobre los datos jerarquizados representados como por ejemplo que el número de pasajeros hombres era de casi <sup>2</sup>&frasl;<sub>3</sub> de la tripulación, así como que los pasajeros hombres y de estatus socioeconómico bajo representaban algo más de <sup>1</sup>&frasl;<sub>3</sub> de la tripulación.</p>
+
+<h2 id="a-name-histogramas-a-histogramas-y-gráficos-de-barras"><a name="histogramas"></a>Histogramas y Gráficos de barras</h2>
+
+<p>Recopilando la información ya recogida en la entrada <a href="https://www.datalaria.com/post/fundamentos/2018-10-07-estadistica-descriptiva/">Estadística descriptiva</a>, se explican dos de las representaciones más utilizadas en los análisis de datos, cuyo principal objetivo es representar la distribución de los datos respecto a una variable o característica del conjunto de datos. Así pues, los histogramas permiten visualizar datos continuos y los diagramas de barras representan datos discretos.<br />
+</br></p>
+
+<ul>
+<li>Ejemplo: Distribución de pasajeros por precio del pasaje</li>
+</ul>
+
+<p><img src="/img/visualizaciones/histograma.png" alt="Histograma" />
+</br></p>
+
+<ul>
+<li>Ejemplo: Distribución de pasajeros por estatus socioeconómico</li>
+</ul>
+
+<p><img src="/img/visualizaciones/diagrama_barras.png" alt="Diagrama_barras" /></p>
+
+<p>Como ya se vio en la entrada sobre “Estadística Descriptiva”, representando sobre estos gráficos medidas de estadística descriptiva (como la media o la mediana), podemos caracterizar la distribución de la variable bajo análisis y con ello extraer más información al respecto.</p>
+
+<h2 id="a-name-grafico-densidad-a-gráficos-de-densidad"><a name="grafico_densidad"></a>Gráficos de densidad</h2>
+
+<p>También conocidos como gráficos de densidad de Kernel, sirven para visualizar la distribución de los datos en un intervalo continuo. Este tipo de gráficos es una variación de los Histogramas donde se representa de manera suavizada la forma de la distribución.
+</br></p>
+
+<ul>
+<li>Ejemplo: Distribución de la edad de los pasajeros del Titanic<br /></li>
+</ul>
+
+<p><img src="/img/visualizaciones/grafico_densidad.png" alt="Gráfico_Densidad" /></p>
+
+<h2 id="a-name-grafico-caja-a-diagramas-de-caja"><a name="grafico_caja"></a>Diagramas de caja</h2>
+
+<p>Los diagramas de caja o de bigote (en inglés “boxplots”) así llamados por la forma de representación, sirven para representar una variable o característica en función de su rango y sus cuartiles.</p>
+
+<p><em>Nota: Los cuartiles son 3 valores que dividen un conjunto de datos ordenados en 4 partes porcentualmente iguales.</em></p>
+
+<p>La visualización del boxplot consiste en una caja que comprende los datos desde el primer cuartil (Q1 - 25% de los datos bajo éste) al tercer cuartil (Q3 - 75% de los datos bajo éste) de los valores de la variable representada (rango intercuartil – IQR). Dentro de dicha caja, mediante una línea horizontal se representa el valor de la mediana y opcionalmente, mediante un asterisco o una estrella el valor de la media.</p>
+
+<p>Además de la caja, en el gráfico también se visualizan 2 líneas horizontales que representan los valores típicos máximos y mínimos de nuestra variable, y a partir de los cuales se visualizan mediante puntos los valores atípicos de la distribución.</p>
+
+<p><em>Nota estadística: Los valores atípicos son aquellos que son numéricamente distantes del resto de datos de la variable. Tomando el Rango Intercuartil (IQR), se consideran valores atípicos aquellos que están por debajo de Q1 – 1,5 IQR o por encima de Q3 + 1,5 IQR</em>.<br />
+</br></p>
+
+<ul>
+<li>Ejemplo: Distribución de los pasajeros del Titanic por edad<br /></li>
+</ul>
+
+<p><img src="/img/visualizaciones/grafico_caja.png" alt="Gráfico_Caja" /></p>
+
+<h2 id="a-name-grafico-violin-a-diagramas-de-violin"><a name="grafico_violin"></a>Diagramas de Violin</h2>
+
+<p>Los diagramas de violín se utilizan para visualizar simultáneamente la distribución de los datos y su densidad de probabilidad. Estos gráficos tan visuales consisten en una combinación de un diagrama de cajas (boxplots) y un diagrama de densidad. De esta manera tenemos representado mediante una línea negra gruesa o caja pequeña el intervalo intercuartil, mediante una línea negra fina el conjunto de datos típicos y mediante un punto blanco la mediana de la distribución.<br />
+</br></p>
+
+<ul>
+<li>Ejemplo: Distribución y densidad de los pasajeros del Titanic por edad<br /></li>
+</ul>
+
+<p><img src="/img/visualizaciones/grafico_violin.png" alt="Gráfico_Violin" /></p>
+
+<h2 id="a-name-grafico-dispersion-a-gráficos-de-dispersión"><a name="grafico_dispersion"></a>Gráficos de dispersión</h2>
+
+<p>Los gráficos de dispersión (en inglés “scatter plots”) consisten en visualizaciones que muestran la relación de 2 variables de un conjunto de datos sobre dos ejes cartesianos. Son bastante útiles dado que permiten extraer información sobre la correlación entre dichas variables.<br />
+</br></p>
+
+<ul>
+<li>Ejemplo: Representación del precio del ticket por edad y género de los pasajero<br /></li>
+</ul>
+
+<p><img src="/img/visualizaciones/grafico_dispersion.png" alt="Gráfico_Dispersion" /></p>
+
+<h2 id="a-name-grafico-pareto-a-gráficos-de-pareto"><a name="grafico_pareto"></a>Gráficos de Pareto</h2>
+
+<p>Los gráficos de Pareto sirven para representar visualmente aquellas distribuciones o conjuntos de datos que responden a la ley de Pareto o regla del <sup>80</sup>&frasl;<sub>20</sub>.
+Ley de Pareto: también conocida como la regla del <sup>80</sup>&frasl;<sub>20</sub>, establece que de forma general en un conjunto de datos relacionado mediante una relación de causa-efecto, aproximadamente el 80% de los resultados o consecuencias proviene del 20% de las causas.
+</br></p>
+
+<ul>
+<li>Ejemplo: Representación de los datos de ingresos por tickets vendidos del Titanic<br /></li>
+</ul>
+
+<p><img src="/img/visualizaciones/grafico_pareto_1.png" alt="Gráfico_Pareto" /></p>
+
+<p><img src="/img/visualizaciones/grafico_pareto_2.png" alt="Gráfico_Pareto" /></p>
+
+<p>Sobre el ejemplo se observa la utilidad de este gráfico dado que rápidamente se visualiza como el 90% de los ingresos de venta de tickets del Titanic provienen de los tickets vendidos a los pasajeros de estatus socioeconómico Alto. O de manera más detallada sobre el segundo gráfico aproximadamente el 80% de los ingresos por venta de tickets procedían de ~20% de los pasajeros de la tripulación.<br />
+</br></p>
+
+<h4 id="fuentes-de-interés">Fuentes de interés:</h4>
+
+<ul>
+<li>Kaggle – <a href="https://www.kaggle.com/c/titanic">Titanic Machine Learning from Disaster</a></li>
+<li>Datos abiertos del Gobierno de España – <a href="https://datos.gob.es/es">datos.gob.es</a></li>
+<li>El Arte de Presentar – <a href="https://www.elartedepresentar.com/2011/11/las-tartas-son-para-el-postre-5-razones-por-las-que-no-uso-graficos-circulares/">Las tartas son para el postre: 5 razones por las que no uso gráficos circulares</a></li>
+<li>Curso <em>“<a href="https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+1T2017/course/">Essential Statistics for Data Analysis using Excel</a>”</em> perteneciente al Microsoft Data Science Program</li>
+<li>Catálogo de Visualización de Datos - <a href="https://datavizcatalogue.com/ES/">Catálogo de Visualización de Datos</a></li>
+</ul>
+
+
+        
+          <div class="blog-tags">
+            
+              <a href="https://www.datalaria.com//tags/estad%C3%ADstica/">estadística</a>&nbsp;
+            
+              <a href="https://www.datalaria.com//tags/visualizaciones/">visualizaciones</a>&nbsp;
+            
+              <a href="https://www.datalaria.com//tags/distribucion/">distribucion</a>&nbsp;
+            
+              <a href="https://www.datalaria.com//tags/gr%C3%A1ficos/">gráficos</a>&nbsp;
+            
+              <a href="https://www.datalaria.com//tags/representaciones/">representaciones</a>&nbsp;
+            
+          </div>
+        
+
+        
+            <hr/>
+            <section id="social-share">
+              <ul class="list-inline footer-links">
+                
+
+
+<li>
+    <a href="//twitter.com/share?url=https%3a%2f%2fwww.datalaria.com%2fpost%2ffundamentos%2f2019-03-02-visualizaciones-basicas%2f&amp;text=Visualizaciones%20b%c3%a1sicas&amp;via=datalaria"
+       target="_blank" alt="" title="Share on Twitter">
+        <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+    </a>
+</li>
+
+
+<li>
+    <a href="//plus.google.com/share?url=https%3a%2f%2fwww.datalaria.com%2fpost%2ffundamentos%2f2019-03-02-visualizaciones-basicas%2f" target="_blank" title="Share on Google Plus">
+         <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+              </span>
+    </a>
+</li>
+
+
+<li>
+    <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.datalaria.com%2fpost%2ffundamentos%2f2019-03-02-visualizaciones-basicas%2f" target="_blank" title="Share on Facebook">
+        <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+              </span>
+    </a>
+</li>
+
+
+<li>
+    <a href="//reddit.com/submit?url=https%3a%2f%2fwww.datalaria.com%2fpost%2ffundamentos%2f2019-03-02-visualizaciones-basicas%2f&amp;title=Visualizaciones%20b%c3%a1sicas" target="_blank" title="Share on Reddit">
+         <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-reddit fa-stack-1x fa-inverse"></i>
+              </span>
+    </a>
+</li>
+
+
+<li>
+    <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fwww.datalaria.com%2fpost%2ffundamentos%2f2019-03-02-visualizaciones-basicas%2f&amp;title=Visualizaciones%20b%c3%a1sicas" target="_blank"
+       title="Share on LinkedIn">
+         <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+              </span>
+    </a>
+</li>
+
+
+<li>
+    <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fwww.datalaria.com%2fpost%2ffundamentos%2f2019-03-02-visualizaciones-basicas%2f&amp;title=Visualizaciones%20b%c3%a1sicas" target="_blank"
+       title="Share on StumbleUpon">
+        <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-stumbleupon fa-stack-1x fa-inverse"></i>
+              </span>
+    </a>
+</li>
+
+
+<li>
+    <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fwww.datalaria.com%2fpost%2ffundamentos%2f2019-03-02-visualizaciones-basicas%2f&amp;description=Visualizaciones%20b%c3%a1sicas" target="_blank"
+       title="Share on Pinterest">
+         <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-pinterest fa-stack-1x fa-inverse"></i>
+              </span>
+    </a>
+</li>
+
+              </ul>
+            </section>
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://www.datalaria.com/post/casos_exito/2019-02-09-john-snow/" data-toggle="tooltip" data-placement="top" title="El auténtico John Snow, precursor de la Geolocalización">&larr; Artículo anterior</a>
+            </li>
+          
+          
+        </ul>
+      
+
+
+      
+        
+        
+          <div class="staticman-comments">
+            <section class="js-comments staticman-comments">
+
+  
+
+  
+    
+    
+      <h3>No comment</h3>
+    
+
+
+    
+    
+  
+
+
+
+<form class="js-form form" method="post" action="https://dev.staticman.net/v3/entry/github/datalaria/blog/master/comments">
+  <input type="hidden" name="options[slug]" value="postfundamentos2019-03-02-visualizaciones-basicas">
+  <input type="hidden" name="options[parent]" value="">
+
+  
+  <input type="hidden" name="options[reCaptcha][siteKey]" value="6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu">
+  <input type="hidden" name="options[reCaptcha][secret]"  value="Qk9SvaX/2uB8fQZtzK9K3&#43;Oy5YWg/QL9hFmemJr/L3lNtijJjOItbxF8Gyzl3gmwZmAP/gzSMuWKQ4tDBUBS0O0eGf2LfgdTfiv/bNJbT0EryImDiz&#43;k5v&#43;CH4AqmeVT1BYAdCY/JkuVsaUXq2V5WJ0pgTMYxdAyp1CkjzGct8U=">
+  
+
+  <fieldset>
+  <div class="textfield">
+    <textarea name="fields[comment]" type="text" placeholder="You can use Markdown syntax"></textarea>
+  </div>
+  </fieldset>
+
+  <fieldset>
+    <div class="textfield">
+      <input name="fields[name]" type="text" placeholder="Your name"/>
+    </div>
+  </fieldset>
+
+  <fieldset>
+    <div class="textfield">
+      <input type="email" name="fields[email]"  placeholder="Your email address"/>
+    </div>
+  </fieldset>
+
+
+  
+  <fieldset>
+    <div class="g-recaptcha" data-sitekey="6LcMllYUAAAAAM3XdBl7QWwLjXy_o_wZc6WmYZNu"></div>
+  </fieldset>
+  
+
+  <fieldset>
+    <button class="button">
+      Submit
+    </button>
+  </fieldset>
+</form>
+</section>
+
+<article class="modal">
+  <div class="title">
+    <h2 class="js-modal-title"></h2>
+  </div>
+  <div class="js-modal-text"></div>
+  <div>
+    <button class="js-close-modal">Close</button>
+  </div>
+</article>
+
+          </div>
+        
+      
+
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+                <a href="mailto:datalaria@gmail.com" title="Email me">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://plus.google.com/109028448665903718613" title="Google&#43;">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/datalaria" title="GitHub">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/datalaria" title="Twitter">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://linkedin.com/in/daniel-al%c3%a1ez-ria%c3%b1o-362257132" title="LinkedIn">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://stackoverflow.com/users/9717082/datalaria" title="StackOverflow">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-stack-overflow fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+          <li>
+            
+            <a href="https://www.datalaria.com/index.xml" title="RSS">
+            
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+            
+              <a href="https://www.datalaria.com/">Datalaria</a>
+            
+          
+
+          &nbsp;&bull;&nbsp;
+          2019
+
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="http://gohugo.io">Hugo v0.37.1</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://www.datalaria.com/js/main.js"></script>
+<script src="https://www.datalaria.com/js/staticman.js"></script>
+<script src="https://www.datalaria.com/js/highlight.min.js"></script>
+<script> hljs.initHighlightingOnLoad(); </script>
+<script> $(document).ready(function() {$("pre.chroma").css("padding","0");}); </script><script> renderMathInElement(document.body); </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script>
+<script src="https://www.datalaria.com/js/load-photoswipe.js"></script>
+
+
+
+
+
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+  </script>
+  </body>
+</html>

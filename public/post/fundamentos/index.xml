@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Visualizaciones básicas</title>
+      <link>http://localhost:1313/post/fundamentos/2019-03-02-visualizaciones-basicas/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>http://localhost:1313/post/fundamentos/2019-03-02-visualizaciones-basicas/</guid>
+      <description>Continuando con la información expuesta en el post “Estadística Descriptiva”, a continuación, vamos a conocer las maneras más básicas de visualizar los datos o la información a analizar. Concretamente:
+ Gráficos de tarta Gráficos de línea Gráficos de rectángulo y proyección solar Histogramas y diagramas de barras Gráficos de densidad Gráficos de caja (Boxplots) Gráficos de violin Gráficos de dispersión Gráficos de Pareto  Gráficos de tarta Los gráficos de tarta o circulares (en inglés “pie charts”) son utilizados para representar la proporción de los datos de una variable o característica según su valor respecto al total de los mismos.</description>
+    </item>
+    
+    <item>
       <title>Estadística Descriptiva</title>
       <link>http://localhost:1313/post/fundamentos/2018-10-07-estadistica-descriptiva/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>

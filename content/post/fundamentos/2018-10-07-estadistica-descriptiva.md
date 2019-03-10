@@ -215,4 +215,4 @@ Para finalizar con este primer artículo de la serie de *Fundamentos*, además d
 
 #### Fuentes de interés:
 - Kaggle – [Titanic Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
-- Curso _“[Essential Statistics for Data Analysis using Excel](https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+1T2017/course/)”_ perteneciente  al Microsoft Data Science Program
+- Curso _“[Essential Statistics for Data Analysis using Excel](https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+1T2017/course/)”_ perteneciente al Microsoft Data Science Program

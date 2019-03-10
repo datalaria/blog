@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.datalaria.com/en/post/fundamentos/2019-03-02-visualizaciones-basicas/</loc>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.datalaria.com/post/fundamentos/2019-03-02-visualizaciones-basicas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datalaria.com/en/post/fundamentos/2019-03-02-visualizaciones-basicas/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.datalaria.com/en/post/casos_exito/2019-02-09-john-snow/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -124,7 +139,7 @@
   
   <url>
     <loc>https://www.datalaria.com/en/</loc>
-    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -163,6 +178,12 @@
                 hreflang="en"
                 href="https://www.datalaria.com/en/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.datalaria.com/en/tags/charts/</loc>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -217,7 +238,7 @@
   
   <url>
     <loc>https://www.datalaria.com/en/tags/distribution/</loc>
-    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -261,7 +282,7 @@
   
   <url>
     <loc>https://www.datalaria.com/en/categories/foundations/</loc>
-    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -307,6 +328,12 @@
                 hreflang="en"
                 href="https://www.datalaria.com/en/tags/gis/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.datalaria.com/en/tags/graphs/</loc>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -427,7 +454,7 @@
   
   <url>
     <loc>https://www.datalaria.com/en/post/</loc>
-    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -493,7 +520,7 @@
   
   <url>
     <loc>https://www.datalaria.com/en/tags/statistics/</loc>
-    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -561,6 +588,12 @@
                 hreflang="en"
                 href="https://www.datalaria.com/en/tags/vba/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.datalaria.com/en/tags/visualizations/</loc>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

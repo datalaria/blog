@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
-    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datalaria.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Visualizaciones básicas</title>
+      <link>https://www.datalaria.com/post/fundamentos/2019-03-02-visualizaciones-basicas/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>https://www.datalaria.com/post/fundamentos/2019-03-02-visualizaciones-basicas/</guid>
+      <description>Continuando con la información expuesta en el post estadística descriptiva, a continuación, vamos a conocer las maneras más básicas de visualizar los datos o la información a analizar. Concretamente:
+ Gráficos de tarta Gráficos de línea Gráficos de rectángulo y proyección solar Histogramas y diagramas de barras Gráficos de densidad Gráficos de caja (Boxplots) Gráficos de violin Gráficos de dispersión Gráficos de Pareto  Nota: Para todos los ejemplos (excepto para los gráficos de línea por sus características) se va a utilizar como dataset el fichero train.</description>
+    </item>
     
     <item>
       <title>El auténtico John Snow, precursor de la Geolocalización</title>
