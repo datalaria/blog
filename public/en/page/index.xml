@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on </title>
-    <link>https://www.datalaria.com/en/page/</link>
+    <link>http://localhost:1313/en/page/</link>
     <description>Recent content in Pages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Fri, 30 Nov 2018 22:17:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.datalaria.com/en/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/en/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>https://www.datalaria.com/en/page/about/</link>
+      <link>http://localhost:1313/en/page/about/</link>
       <pubDate>Fri, 30 Nov 2018 22:17:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/en/page/about/</guid>
+      <guid>http://localhost:1313/en/page/about/</guid>
       <description>Hi to everyone!!, My name is Daniel, a telecommunications engineer with over 10 years of experience in Engineering and R &amp;amp; D projects within a multinational company in the sector. Passionate about any new technology, tool or system that becomes a reality the impossible, or at least, easier the difficult.
 For some time now, I have been embarking on the world of data analysis in its different uses and following the Lord Kevin’s maxim: &amp;ldquo;If you cannot measure it, you cannot improve it&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://www.datalaria.com/en/page/contact/</link>
+      <link>http://localhost:1313/en/page/contact/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/en/page/contact/</guid>
+      <guid>http://localhost:1313/en/page/contact/</guid>
       <description>In case you have any remarks, consult or suggestion about the blog or any new subject you think interesting, please don&amp;rsquo;t hesitate to contact me through the following form:
 (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()</description>
     </item>

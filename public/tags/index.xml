@@ -2,346 +2,346 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://www.datalaria.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Sat, 19 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.datalaria.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Análisis</title>
-      <link>https://www.datalaria.com/tags/an%C3%A1lisis/</link>
+      <link>http://localhost:1313/tags/an%C3%A1lisis/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/an%C3%A1lisis/</guid>
+      <guid>http://localhost:1313/tags/an%C3%A1lisis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bienvenida</title>
-      <link>https://www.datalaria.com/tags/bienvenida/</link>
+      <link>http://localhost:1313/tags/bienvenida/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/bienvenida/</guid>
+      <guid>http://localhost:1313/tags/bienvenida/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Colera</title>
-      <link>https://www.datalaria.com/tags/colera/</link>
+      <link>http://localhost:1313/tags/colera/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/colera/</guid>
+      <guid>http://localhost:1313/tags/colera/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crimea</title>
-      <link>https://www.datalaria.com/tags/crimea/</link>
+      <link>http://localhost:1313/tags/crimea/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/crimea/</guid>
+      <guid>http://localhost:1313/tags/crimea/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Curso</title>
-      <link>https://www.datalaria.com/tags/curso/</link>
+      <link>http://localhost:1313/tags/curso/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/curso/</guid>
+      <guid>http://localhost:1313/tags/curso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cálculo</title>
-      <link>https://www.datalaria.com/tags/c%C3%A1lculo/</link>
+      <link>http://localhost:1313/tags/c%C3%A1lculo/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/c%C3%A1lculo/</guid>
+      <guid>http://localhost:1313/tags/c%C3%A1lculo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data</title>
-      <link>https://www.datalaria.com/tags/data/</link>
+      <link>http://localhost:1313/tags/data/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/data/</guid>
+      <guid>http://localhost:1313/tags/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Datos</title>
-      <link>https://www.datalaria.com/tags/datos/</link>
+      <link>http://localhost:1313/tags/datos/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/datos/</guid>
+      <guid>http://localhost:1313/tags/datos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Descriptiva</title>
-      <link>https://www.datalaria.com/tags/descriptiva/</link>
+      <link>http://localhost:1313/tags/descriptiva/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/descriptiva/</guid>
+      <guid>http://localhost:1313/tags/descriptiva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distribucion</title>
-      <link>https://www.datalaria.com/tags/distribucion/</link>
-      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/distribucion/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/distribucion/</guid>
+      <guid>http://localhost:1313/tags/distribucion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enfermería</title>
-      <link>https://www.datalaria.com/tags/enfermer%C3%ADa/</link>
+      <link>http://localhost:1313/tags/enfermer%C3%ADa/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/enfermer%C3%ADa/</guid>
+      <guid>http://localhost:1313/tags/enfermer%C3%ADa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estadistica</title>
-      <link>https://www.datalaria.com/tags/estadistica/</link>
+      <link>http://localhost:1313/tags/estadistica/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/estadistica/</guid>
+      <guid>http://localhost:1313/tags/estadistica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estadística</title>
-      <link>https://www.datalaria.com/tags/estad%C3%ADstica/</link>
+      <link>http://localhost:1313/tags/estad%C3%ADstica/</link>
       <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/estad%C3%ADstica/</guid>
+      <guid>http://localhost:1313/tags/estad%C3%ADstica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Excel</title>
-      <link>https://www.datalaria.com/tags/excel/</link>
+      <link>http://localhost:1313/tags/excel/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/excel/</guid>
+      <guid>http://localhost:1313/tags/excel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Florence</title>
-      <link>https://www.datalaria.com/tags/florence/</link>
+      <link>http://localhost:1313/tags/florence/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/florence/</guid>
+      <guid>http://localhost:1313/tags/florence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaussiana</title>
-      <link>https://www.datalaria.com/tags/gaussiana/</link>
-      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/gaussiana/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/gaussiana/</guid>
+      <guid>http://localhost:1313/tags/gaussiana/</guid>
       <description></description>
     </item>
     
     <item>
       <title>General</title>
-      <link>https://www.datalaria.com/tags/general/</link>
+      <link>http://localhost:1313/tags/general/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/general/</guid>
+      <guid>http://localhost:1313/tags/general/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geolocalización</title>
-      <link>https://www.datalaria.com/tags/geolocalizaci%C3%B3n/</link>
+      <link>http://localhost:1313/tags/geolocalizaci%C3%B3n/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/geolocalizaci%C3%B3n/</guid>
+      <guid>http://localhost:1313/tags/geolocalizaci%C3%B3n/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gis</title>
-      <link>https://www.datalaria.com/tags/gis/</link>
+      <link>http://localhost:1313/tags/gis/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/gis/</guid>
+      <guid>http://localhost:1313/tags/gis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gráficos</title>
-      <link>https://www.datalaria.com/tags/gr%C3%A1ficos/</link>
-      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/gr%C3%A1ficos/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/gr%C3%A1ficos/</guid>
+      <guid>http://localhost:1313/tags/gr%C3%A1ficos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hojas</title>
-      <link>https://www.datalaria.com/tags/hojas/</link>
+      <link>http://localhost:1313/tags/hojas/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/hojas/</guid>
+      <guid>http://localhost:1313/tags/hojas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inicio</title>
-      <link>https://www.datalaria.com/tags/inicio/</link>
+      <link>http://localhost:1313/tags/inicio/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/inicio/</guid>
+      <guid>http://localhost:1313/tags/inicio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>John</title>
-      <link>https://www.datalaria.com/tags/john/</link>
+      <link>http://localhost:1313/tags/john/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/john/</guid>
+      <guid>http://localhost:1313/tags/john/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapa</title>
-      <link>https://www.datalaria.com/tags/mapa/</link>
+      <link>http://localhost:1313/tags/mapa/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/mapa/</guid>
+      <guid>http://localhost:1313/tags/mapa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matemáticas</title>
-      <link>https://www.datalaria.com/tags/matem%C3%A1ticas/</link>
+      <link>http://localhost:1313/tags/matem%C3%A1ticas/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/matem%C3%A1ticas/</guid>
+      <guid>http://localhost:1313/tags/matem%C3%A1ticas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microsoft</title>
-      <link>https://www.datalaria.com/tags/microsoft/</link>
+      <link>http://localhost:1313/tags/microsoft/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/microsoft/</guid>
+      <guid>http://localhost:1313/tags/microsoft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nightingale</title>
-      <link>https://www.datalaria.com/tags/nightingale/</link>
+      <link>http://localhost:1313/tags/nightingale/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/nightingale/</guid>
+      <guid>http://localhost:1313/tags/nightingale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Normal</title>
-      <link>https://www.datalaria.com/tags/normal/</link>
-      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/normal/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/normal/</guid>
+      <guid>http://localhost:1313/tags/normal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programa</title>
-      <link>https://www.datalaria.com/tags/programa/</link>
+      <link>http://localhost:1313/tags/programa/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/programa/</guid>
+      <guid>http://localhost:1313/tags/programa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Representaciones</title>
-      <link>https://www.datalaria.com/tags/representaciones/</link>
+      <link>http://localhost:1313/tags/representaciones/</link>
       <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/representaciones/</guid>
+      <guid>http://localhost:1313/tags/representaciones/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sanidad</title>
-      <link>https://www.datalaria.com/tags/sanidad/</link>
+      <link>http://localhost:1313/tags/sanidad/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/sanidad/</guid>
+      <guid>http://localhost:1313/tags/sanidad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Science</title>
-      <link>https://www.datalaria.com/tags/science/</link>
+      <link>http://localhost:1313/tags/science/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/science/</guid>
+      <guid>http://localhost:1313/tags/science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snow</title>
-      <link>https://www.datalaria.com/tags/snow/</link>
+      <link>http://localhost:1313/tags/snow/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/snow/</guid>
+      <guid>http://localhost:1313/tags/snow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tablas</title>
-      <link>https://www.datalaria.com/tags/tablas/</link>
+      <link>http://localhost:1313/tags/tablas/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/tablas/</guid>
+      <guid>http://localhost:1313/tags/tablas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Track</title>
-      <link>https://www.datalaria.com/tags/track/</link>
+      <link>http://localhost:1313/tags/track/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/track/</guid>
+      <guid>http://localhost:1313/tags/track/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vba</title>
-      <link>https://www.datalaria.com/tags/vba/</link>
+      <link>http://localhost:1313/tags/vba/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/vba/</guid>
+      <guid>http://localhost:1313/tags/vba/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visualizaciones</title>
-      <link>https://www.datalaria.com/tags/visualizaciones/</link>
-      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/visualizaciones/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/tags/visualizaciones/</guid>
+      <guid>http://localhost:1313/tags/visualizaciones/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Track on </title>
-    <link>https://www.datalaria.com/en/tags/track/</link>
+    <link>http://localhost:1313/en/tags/track/</link>
     <description>Recent content in Track on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Sat, 29 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.datalaria.com/en/tags/track/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/en/tags/track/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Microsoft Professional Program for Data Science</title>
-      <link>https://www.datalaria.com/en/post/proyectos/2018-09-03-mva_mpp_datascience/</link>
+      <link>http://localhost:1313/en/post/proyectos/2018-09-03-mva_mpp_datascience/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>https://www.datalaria.com/en/post/proyectos/2018-09-03-mva_mpp_datascience/</guid>
+      <guid>http://localhost:1313/en/post/proyectos/2018-09-03-mva_mpp_datascience/</guid>
       <description>As a first step in the data science learning track, and inside the Microsoft Virtual Academy, you can find the Microsoft Professional Program for Data Science course delivered through the online learning platform edX.
 How it works? This program, certified by Microsoft, is made up of 3 units with 10 courses (lasting about 8-12 hours each) and a project capstone. The Microsoft Program Certificate is achieved once all the courses have been verified and certified through the edX platform (in case of not being interested in this certification and as for the rest of MOOCs in the edX platform, they can also be done free of charge).</description>
     </item>
