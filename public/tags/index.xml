@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Cine</title>
+      <link>http://localhost:1313/tags/cine/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>http://localhost:1313/tags/cine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Colera</title>
       <link>http://localhost:1313/tags/colera/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
@@ -99,6 +108,15 @@
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>http://localhost:1313/tags/distribucion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dvds</title>
+      <link>http://localhost:1313/tags/dvds/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>http://localhost:1313/tags/dvds/</guid>
       <description></description>
     </item>
     
@@ -247,6 +265,15 @@
     </item>
     
     <item>
+      <title>Netflix</title>
+      <link>http://localhost:1313/tags/netflix/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>http://localhost:1313/tags/netflix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nightingale</title>
       <link>http://localhost:1313/tags/nightingale/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
@@ -261,6 +288,15 @@
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>http://localhost:1313/tags/normal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Películas</title>
+      <link>http://localhost:1313/tags/pel%C3%ADculas/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>http://localhost:1313/tags/pel%C3%ADculas/</guid>
       <description></description>
     </item>
     
@@ -301,11 +337,29 @@
     </item>
     
     <item>
+      <title>Series</title>
+      <link>http://localhost:1313/tags/series/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>http://localhost:1313/tags/series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Snow</title>
       <link>http://localhost:1313/tags/snow/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>http://localhost:1313/tags/snow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streaming</title>
+      <link>http://localhost:1313/tags/streaming/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>http://localhost:1313/tags/streaming/</guid>
       <description></description>
     </item>
     
@@ -319,11 +373,29 @@
     </item>
     
     <item>
+      <title>Televisión</title>
+      <link>http://localhost:1313/tags/televisi%C3%B3n/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>http://localhost:1313/tags/televisi%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Track</title>
       <link>http://localhost:1313/tags/track/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>http://localhost:1313/tags/track/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tv</title>
+      <link>http://localhost:1313/tags/tv/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>http://localhost:1313/tags/tv/</guid>
       <description></description>
     </item>
     
@@ -337,11 +409,29 @@
     </item>
     
     <item>
+      <title>Video</title>
+      <link>http://localhost:1313/tags/video/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>http://localhost:1313/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Visualizaciones</title>
       <link>http://localhost:1313/tags/visualizaciones/</link>
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
       <guid>http://localhost:1313/tags/visualizaciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vod</title>
+      <link>http://localhost:1313/tags/vod/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <author>datalaria@gmail.com (Datalaria)</author>
+      <guid>http://localhost:1313/tags/vod/</guid>
       <description></description>
     </item>
     

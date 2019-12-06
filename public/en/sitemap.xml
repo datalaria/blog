@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/en/post/casos_exito/2019-12-03-netflix/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/post/casos_exito/2019-12-03-netflix/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/post/casos_exito/2019-12-03-netflix/"
+                />
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/en/post/fundamentos/2019-03-02-visualizaciones-basicas/</loc>
     <lastmod>2019-03-02T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -139,7 +154,7 @@
   
   <url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -166,7 +181,24 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/en/categories/casos_exito/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/categories/casos_exito/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/casos_exito/"
+                />
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/en/categories/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -189,6 +221,12 @@
   <url>
     <loc>http://localhost:1313/en/tags/cholera/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/tags/cinema/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -240,6 +278,22 @@
     <loc>http://localhost:1313/en/tags/distribution/</loc>
     <lastmod>2019-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/tags/dvds/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/dvds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/dvds/"
+                />
   </url>
   
   <url>
@@ -399,6 +453,28 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/en/tags/movies/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/tags/netflix/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/netflix/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/netflix/"
+                />
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/en/tags/nightingale/</loc>
     <lastmod>2018-12-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -454,7 +530,7 @@
   
   <url>
     <loc>http://localhost:1313/en/post/</loc>
-    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -535,6 +611,22 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/en/tags/streaming/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/streaming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/streaming/"
+                />
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/en/categories/success_stories/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -563,6 +655,12 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/en/tags/television/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/en/tags/track/</loc>
     <lastmod>2018-12-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -576,6 +674,28 @@
                 hreflang="en"
                 href="http://localhost:1313/en/tags/track/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/tags/tv/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/tv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/tv/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/tags/tv-shows/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -601,9 +721,41 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/en/tags/video/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/video/"
+                />
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/en/tags/visualizations/</loc>
     <lastmod>2019-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/en/tags/vod/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/tags/vod/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/vod/"
+                />
   </url>
   
   <url>
