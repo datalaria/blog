@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Películas on </title>
-    <link>http://localhost:1313/tags/pel%C3%ADculas/</link>
+    <link>https://www.datalaria.com/tags/pel%C3%ADculas/</link>
     <description>Recent content in Películas on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/pel%C3%ADculas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.datalaria.com/tags/pel%C3%ADculas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Netflix - El valor de los datos</title>
-      <link>http://localhost:1313/post/casos_exito/2019-12-03-netflix/</link>
+      <link>https://www.datalaria.com/post/casos_exito/2019-12-03-netflix/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/casos_exito/2019-12-03-netflix/</guid>
+      <guid>https://www.datalaria.com/post/casos_exito/2019-12-03-netflix/</guid>
       <description>Netflix, el rey de las plataformas streaming online de contenidos audiovisuales, representa un claro ejemplo de empresa orientada al dato (data-driven Company). Y es que Netflix, no sólo ha conseguido abrirse camino y triunfar en el sector del entretenimiento dentro de la industria del cine y la televisión, sino que mediante un modelo e idea de negocio disruptor ha cambiado las reglas del juego y ha revolucionado todo el sector.</description>
     </item>
     

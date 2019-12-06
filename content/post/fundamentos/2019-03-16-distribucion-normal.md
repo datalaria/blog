@@ -1,7 +1,7 @@
 ---
 title: La Distribución Normal
 date: 2019-03-16
-draft: False
+draft: True
 categories: ["fundamentos"]
 tags: ["normal", "visualizaciones", "distribucion", "gráficos", "gaussiana"]
 myVar: "myValue"

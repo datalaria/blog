@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>http://localhost:1313/en/post/</link>
+    <link>https://www.datalaria.com/en/post/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/en/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.datalaria.com/en/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Netflix - The value of the data</title>
-      <link>http://localhost:1313/en/post/casos_exito/2019-12-03-netflix/</link>
+      <link>https://www.datalaria.com/en/post/casos_exito/2019-12-03-netflix/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/en/post/casos_exito/2019-12-03-netflix/</guid>
+      <guid>https://www.datalaria.com/en/post/casos_exito/2019-12-03-netflix/</guid>
       <description>Netflix, the king of Video On Demand platforms, represents a clear example of a data-driven company. And the thing is that Netflix, not only has managed to break through and succeed in the film and television industry, but through a disruptive business model and idea has also changed the rules of the game and has revolutionized this entire sector.
 To date, the film or motion picture industry has been governed by the production of similar content among different companies (including editing remakes after remakes), following the same business models over and over again and living as revolutions and innovations only an update of formats (sale / rental VHS, DVDs, Blu-rays, analog, digital format, Full HD, 4K &amp;hellip;), while the business model remained based on high market access times controlled by the industry and not by users (for example, with content releases with up to 1 year difference between different countries).</description>
     </item>
     
     <item>
       <title>Data Visualization - Basics</title>
-      <link>http://localhost:1313/en/post/fundamentos/2019-03-02-visualizaciones-basicas/</link>
+      <link>https://www.datalaria.com/en/post/fundamentos/2019-03-02-visualizaciones-basicas/</link>
       <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/en/post/fundamentos/2019-03-02-visualizaciones-basicas/</guid>
+      <guid>https://www.datalaria.com/en/post/fundamentos/2019-03-02-visualizaciones-basicas/</guid>
       <description>Following up on the information presented in the post &amp;ldquo;Descriptive Statistics&amp;rdquo;, below, we will know the most basic ways to visualize the data or information to be analyzed. Specifically:
  Pie chart Line chart Treemap &amp;amp; Subburst Histograms &amp;amp; Bar charts Density plot Boxplots Violin plots Scatter plots Pareto chart  Note: All the examples (except for the line graphs due to its features) are based on the train.csv dataset file, which is a subset of 891 representative individuals of the population of the Titanic used for the training of models of Machine Learning.</description>
     </item>
     
     <item>
       <title>The authentic John Snow, a precursor of Geolocation</title>
-      <link>http://localhost:1313/en/post/casos_exito/2019-02-09-john-snow/</link>
+      <link>https://www.datalaria.com/en/post/casos_exito/2019-02-09-john-snow/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/en/post/casos_exito/2019-02-09-john-snow/</guid>
+      <guid>https://www.datalaria.com/en/post/casos_exito/2019-02-09-john-snow/</guid>
       <description>Despite the fact that nowadays, for the great majority of people, the name of John Snow brings to his mind to Aegon Targaryen or the heir to the iron throne, there is actually another, perhaps less popular, John Snow (United Kingdom 15/03/1813 - 16/06/1858). This another John Snow should be known as a precursor or forerunner of epidemiology and geolocation and one of the references in the field of dissemination of data thanks to its Cholera map of 1854.</description>
     </item>
     
     <item>
       <title>Excel (Spreadsheet)</title>
-      <link>http://localhost:1313/en/post/utilidades/2018-10-14-excel/</link>
+      <link>https://www.datalaria.com/en/post/utilidades/2018-10-14-excel/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/en/post/utilidades/2018-10-14-excel/</guid>
+      <guid>https://www.datalaria.com/en/post/utilidades/2018-10-14-excel/</guid>
       <description>Spreadsheet tools as Microsoft Excel, Google Spreadsheet, Apache OpenOffice Calc (see other alternatives in maketecheasier) could be considered as a basic or introductory tool for data analysis.
 In this post, we are going to focus on the tool MS Excel 2016 as a basic introduction to several of its more interesting functionalities for data analysis (in a similar way found in the other spreadsheet tools). In later entries of the Project section, practical examples developed with these features will be shown.</description>
     </item>
     
     <item>
       <title>Descriptive Statistics</title>
-      <link>http://localhost:1313/en/post/fundamentos/2018-10-07-estadistica-descriptiva/</link>
+      <link>https://www.datalaria.com/en/post/fundamentos/2018-10-07-estadistica-descriptiva/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/en/post/fundamentos/2018-10-07-estadistica-descriptiva/</guid>
+      <guid>https://www.datalaria.com/en/post/fundamentos/2018-10-07-estadistica-descriptiva/</guid>
       <description>As a starting point in data analysis, it is necessary to know some mathematical and statistical foundations in order to work with the information to be analyzed.
 Thus, we will start learning some basic concepts:
 Population, Samples, Individuals and Variables:  Population: The set of all the elements under study Sample: A subset of elements of the population (it should be representative of the population) Individuals: Every individual element in the popularion Variables: Characteristics of the individuals  Example: Titanic Dataset</description>
@@ -64,30 +64,30 @@ Population, Samples, Individuals and Variables:  Population: The set of all the 
     
     <item>
       <title>Microsoft Professional Program for Data Science</title>
-      <link>http://localhost:1313/en/post/proyectos/2018-09-03-mva_mpp_datascience/</link>
+      <link>https://www.datalaria.com/en/post/proyectos/2018-09-03-mva_mpp_datascience/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/en/post/proyectos/2018-09-03-mva_mpp_datascience/</guid>
+      <guid>https://www.datalaria.com/en/post/proyectos/2018-09-03-mva_mpp_datascience/</guid>
       <description>As a first step in the data science learning track, and inside the Microsoft Virtual Academy, you can find the Microsoft Professional Program for Data Science course delivered through the online learning platform edX.
 How it works? This program, certified by Microsoft, is made up of 3 units with 10 courses (lasting about 8-12 hours each) and a project capstone. The Microsoft Program Certificate is achieved once all the courses have been verified and certified through the edX platform (in case of not being interested in this certification and as for the rest of MOOCs in the edX platform, they can also be done free of charge).</description>
     </item>
     
     <item>
       <title>Florence Nightingale - The mother of Nursing</title>
-      <link>http://localhost:1313/en/post/casos_exito/2018-08-21-florence-nightingale/</link>
+      <link>https://www.datalaria.com/en/post/casos_exito/2018-08-21-florence-nightingale/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/en/post/casos_exito/2018-08-21-florence-nightingale/</guid>
+      <guid>https://www.datalaria.com/en/post/casos_exito/2018-08-21-florence-nightingale/</guid>
       <description>We are opening the Success Stories category with Florence Nightingale (12/05/1920 – 13/08/1910), british nurse, writer and statistician, who is considered the mother of nursing and one of the first data scientist in history.
 Her story is especially relevant given that, in addition to fighting for the women’s rights and emancipation through the opening of new qualified professional paths, she stood out in the field of nursing for being considered the precursor of modern professional nursing thanks to the creation of the first conceptual model of nursing.</description>
     </item>
     
     <item>
       <title>Starting up</title>
-      <link>http://localhost:1313/en/post/startup/</link>
+      <link>https://www.datalaria.com/en/post/startup/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/en/post/startup/</guid>
+      <guid>https://www.datalaria.com/en/post/startup/</guid>
       <description>The purpose of this blog is to carry out a personal R &amp;amp; D work focused on the world of data science. Research focused on the study and learning in the data analysis, its tools and application areas and tools and, Development putting into practice the different concepts studied or analyzed with two goals:
  Learn and strengthen the knowledge Share such knowledge and references in case they might be of interest to anyone who could consult them.</description>
     </item>

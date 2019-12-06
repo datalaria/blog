@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Normal on </title>
-    <link>http://localhost:1313/tags/normal/</link>
+    <link>https://www.datalaria.com/tags/normal/</link>
     <description>Recent content in Normal on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/normal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.datalaria.com/tags/normal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>La Distribución Normal</title>
-      <link>http://localhost:1313/post/fundamentos/2019-03-16-distribucion-normal/</link>
+      <link>https://www.datalaria.com/post/fundamentos/2019-03-16-distribucion-normal/</link>
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/fundamentos/2019-03-16-distribucion-normal/</guid>
+      <guid>https://www.datalaria.com/post/fundamentos/2019-03-16-distribucion-normal/</guid>
       <description>En esta entrada, vamos a centrarnos en la distribución normal, la cual ya fue brevemente introducida en el post estadística descriptiva.
 La distribución normal o gaussiana (o también conocida como Laplace-Gauss) es una de las distribuciones de probabilidad de variable continua que con más frecuencia aparece en estadística y en la teoría de probabilidades.
 La distribución normal (en ocasiones llamada distribución gaussiana) es la distribución continua que se utiliza más comúnmente en estadística.</description>
@@ -25,10 +25,10 @@ La distribución normal (en ocasiones llamada distribución gaussiana) es la dis
     
     <item>
       <title>Estadística Descriptiva</title>
-      <link>http://localhost:1313/post/fundamentos/2018-10-07-estadistica-descriptiva/</link>
+      <link>https://www.datalaria.com/post/fundamentos/2018-10-07-estadistica-descriptiva/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/fundamentos/2018-10-07-estadistica-descriptiva/</guid>
+      <guid>https://www.datalaria.com/post/fundamentos/2018-10-07-estadistica-descriptiva/</guid>
       <description>Como punto de partida en el análisis de datos, es necesario conocer unas nociones matemáticas y estadísticas para poder trabajar con la información a analizar.
 Para ello, vamos a comenzar viendo unos conceptos básicos:
 Población, Muestras, Individuos y Variables  Población: Total de elementos bajo estudio Muestra: Subconjunto de elementos de la población (debería ser representativo de la población) Individuos: Elementos individuales de la población Variables: Características de los individuos  Ejemplo: Dataset Titanic</description>

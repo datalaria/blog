@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.datalaria.com/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.datalaria.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Netflix - El valor de los datos</title>
-      <link>http://localhost:1313/post/casos_exito/2019-12-03-netflix/</link>
+      <link>https://www.datalaria.com/post/casos_exito/2019-12-03-netflix/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/casos_exito/2019-12-03-netflix/</guid>
+      <guid>https://www.datalaria.com/post/casos_exito/2019-12-03-netflix/</guid>
       <description>Netflix, el rey de las plataformas streaming online de contenidos audiovisuales, representa un claro ejemplo de empresa orientada al dato (data-driven Company). Y es que Netflix, no sólo ha conseguido abrirse camino y triunfar en el sector del entretenimiento dentro de la industria del cine y la televisión, sino que mediante un modelo e idea de negocio disruptor ha cambiado las reglas del juego y ha revolucionado todo el sector.</description>
     </item>
     
     <item>
       <title>La Distribución Normal</title>
-      <link>http://localhost:1313/post/fundamentos/2019-03-16-distribucion-normal/</link>
+      <link>https://www.datalaria.com/post/fundamentos/2019-03-16-distribucion-normal/</link>
       <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/fundamentos/2019-03-16-distribucion-normal/</guid>
+      <guid>https://www.datalaria.com/post/fundamentos/2019-03-16-distribucion-normal/</guid>
       <description>En esta entrada, vamos a centrarnos en la distribución normal, la cual ya fue brevemente introducida en el post estadística descriptiva.
 La distribución normal o gaussiana (o también conocida como Laplace-Gauss) es una de las distribuciones de probabilidad de variable continua que con más frecuencia aparece en estadística y en la teoría de probabilidades.
 La distribución normal (en ocasiones llamada distribución gaussiana) es la distribución continua que se utiliza más comúnmente en estadística.</description>
@@ -34,39 +34,39 @@ La distribución normal (en ocasiones llamada distribución gaussiana) es la dis
     
     <item>
       <title>Visualizaciones básicas</title>
-      <link>http://localhost:1313/post/fundamentos/2019-03-02-visualizaciones-basicas/</link>
+      <link>https://www.datalaria.com/post/fundamentos/2019-03-02-visualizaciones-basicas/</link>
       <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/fundamentos/2019-03-02-visualizaciones-basicas/</guid>
+      <guid>https://www.datalaria.com/post/fundamentos/2019-03-02-visualizaciones-basicas/</guid>
       <description>Continuando con la información expuesta en el post estadística descriptiva, a continuación, vamos a conocer las maneras más básicas de visualizar los datos o la información a analizar. Concretamente:
  Gráficos de tarta Gráficos de línea Gráficos de rectángulo y proyección solar Histogramas y diagramas de barras Gráficos de densidad Gráficos de caja (Boxplots) Gráficos de violin Gráficos de dispersión Gráficos de Pareto  Nota: Para todos los ejemplos (excepto para los gráficos de línea por sus características) se va a utilizar como dataset el fichero train.</description>
     </item>
     
     <item>
       <title>El auténtico John Snow, precursor de la Geolocalización</title>
-      <link>http://localhost:1313/post/casos_exito/2019-02-09-john-snow/</link>
+      <link>https://www.datalaria.com/post/casos_exito/2019-02-09-john-snow/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/casos_exito/2019-02-09-john-snow/</guid>
+      <guid>https://www.datalaria.com/post/casos_exito/2019-02-09-john-snow/</guid>
       <description>Aunque en la actualidad para la gran mayoría de la gente el nombre John Snow o John Nieve le traiga a la cabeza a Aegon Targaryen o al heredero del trono de hierro, en verdad existe otro, tal vez menos popular, John Snow (Reino Unido 15/03/1813 – 16/06/1858) al que el mundo debería conocer como el precursor o padre de la epidemiología y de la geolocalización, y uno de los referentes en el ámbito de la visualización de los datos gracias a su mapa del cólera de 1854.</description>
     </item>
     
     <item>
       <title>Excel (Hojas de Cálculo)</title>
-      <link>http://localhost:1313/post/utilidades/2018-10-14-excel/</link>
+      <link>https://www.datalaria.com/post/utilidades/2018-10-14-excel/</link>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/utilidades/2018-10-14-excel/</guid>
+      <guid>https://www.datalaria.com/post/utilidades/2018-10-14-excel/</guid>
       <description>Las aplicaciones de hojas de cálculo como Microsoft Excel, Hojas de cálculo de Google, Apache OpenOffice Calc (ver otras alternativas en workana), podrían considerarse una herramienta básica o de iniciación para el análisis de datos.
 En esta entrada, vamos a centrarnos en la herramienta MS Excel 2016 para introducir de manera básica varias de sus funcionalidades más interesantes desde el punto de vista del análisis de datos (realizables de manera análoga en el resto de herramientas de hojas de cálculo).</description>
     </item>
     
     <item>
       <title>Estadística Descriptiva</title>
-      <link>http://localhost:1313/post/fundamentos/2018-10-07-estadistica-descriptiva/</link>
+      <link>https://www.datalaria.com/post/fundamentos/2018-10-07-estadistica-descriptiva/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/fundamentos/2018-10-07-estadistica-descriptiva/</guid>
+      <guid>https://www.datalaria.com/post/fundamentos/2018-10-07-estadistica-descriptiva/</guid>
       <description>Como punto de partida en el análisis de datos, es necesario conocer unas nociones matemáticas y estadísticas para poder trabajar con la información a analizar.
 Para ello, vamos a comenzar viendo unos conceptos básicos:
 Población, Muestras, Individuos y Variables  Población: Total de elementos bajo estudio Muestra: Subconjunto de elementos de la población (debería ser representativo de la población) Individuos: Elementos individuales de la población Variables: Características de los individuos  Ejemplo: Dataset Titanic</description>
@@ -74,40 +74,40 @@ Población, Muestras, Individuos y Variables  Población: Total de elementos baj
     
     <item>
       <title>Programa Profesional de Microsoft para la Ciencia de datos</title>
-      <link>http://localhost:1313/post/proyectos/2018-09-03-mva_mpp_datascience/</link>
+      <link>https://www.datalaria.com/post/proyectos/2018-09-03-mva_mpp_datascience/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/proyectos/2018-09-03-mva_mpp_datascience/</guid>
+      <guid>https://www.datalaria.com/post/proyectos/2018-09-03-mva_mpp_datascience/</guid>
       <description>Dentro de la Academia Virtual de Microsoft, y como un primer paso de interés dentro del aprendizaje del análisis de datos, se encuentra el Programa Profesional para la Ciencia de datos, impartido a través de la plataforma de aprendizaje edX. Máster Telefónica en Big Data y Business Analytics
 ¿En qué consiste? Este programa certificado por Microsoft se compone de 3 Unidades formativas compuestas por 10 cursos de una duración de 8-12 horas cada uno, y un Proyecto final.</description>
     </item>
     
     <item>
       <title>Florence Nightingale - La madre de la Enfermería</title>
-      <link>http://localhost:1313/post/casos_exito/2018-08-21-florence-nightingale/</link>
+      <link>https://www.datalaria.com/post/casos_exito/2018-08-21-florence-nightingale/</link>
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/casos_exito/2018-08-21-florence-nightingale/</guid>
+      <guid>https://www.datalaria.com/post/casos_exito/2018-08-21-florence-nightingale/</guid>
       <description>Vamos a abrir la categoría de casos de éxito relativos al análisis de datos, con Florence Nightingale (12/05/1920 – 13/08/1910), enfermera, escritora y estadística británica, quién es considerada la madre de la enfermería y una de las primeras científicas de datos.
 Su caso es especialmente relevante dado que, además de luchar por la emancipación de la mujer mediante la apertura de nuevos rumbos profesionales cualificados, destacó en el ámbito de la enfermería por ser considerada la precursora de la enfermería profesional moderna gracias a la creación del primer modelo conceptual.</description>
     </item>
     
     <item>
       <title>Arrancamos</title>
-      <link>http://localhost:1313/post/startup/</link>
+      <link>https://www.datalaria.com/post/startup/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/post/startup/</guid>
+      <guid>https://www.datalaria.com/post/startup/</guid>
       <description>El propósito de este blog consiste en llevar a cabo una labor de I+D personal centrada en mundo de los datos. Investigación enfocada en el estudio y aprendizaje en el análisis de datos y sus campos de aplicación y herramientas y, Desarrollo con la puesta en práctica de los diferentes conceptos estudiados o analizados y con 2 objetivos:
  Aprender y afianzar los conocimientos expuestos Divulgar dichos conocimientos y referencias por si pudieran ser de interés para cualquiera que pueda consultarlos.</description>
     </item>
     
     <item>
       <title>Sobre mí</title>
-      <link>http://localhost:1313/page/about/</link>
+      <link>https://www.datalaria.com/page/about/</link>
       <pubDate>Fri, 30 Nov 2018 22:17:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/page/about/</guid>
+      <guid>https://www.datalaria.com/page/about/</guid>
       <description>Hola a tod@s!!, Mi nombre es Daniel, ingeniero de telecomunicaciones con más de 10 años de experiencia en el mundo de la Ingeniería y proyectos I+D dentro de una empresa multinacional del sector.
 Apasionado de cualquier nueva tecnología, herramienta o sistema que permita hacer real lo imposible o simplemente más fácil lo difícil.
 Desde hace un tiempo me estoy embarcando en el mundo del análisis de datos en sus diferentes facetas y siguiendo la máxima de Lord Kevin: “Lo que no se define no se puede medir.</description>
@@ -115,10 +115,10 @@ Desde hace un tiempo me estoy embarcando en el mundo del análisis de datos en s
     
     <item>
       <title>Contacto</title>
-      <link>http://localhost:1313/page/contact/</link>
+      <link>https://www.datalaria.com/page/contact/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/page/contact/</guid>
+      <guid>https://www.datalaria.com/page/contact/</guid>
       <description>En caso de que tengas algún comentario, consulta o sugerencia sobre los comentarios del blog o cualquier nueva aportación que consideres interesante, no dudes en contactarme a través del siguiente formulario:
 (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()</description>
     </item>

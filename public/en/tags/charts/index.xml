@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Charts on </title>
-    <link>http://localhost:1313/en/tags/charts/</link>
+    <link>https://www.datalaria.com/en/tags/charts/</link>
     <description>Recent content in Charts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>datalaria@gmail.com (Datalaria)</managingEditor>
     <webMaster>datalaria@gmail.com (Datalaria)</webMaster>
     <lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/en/tags/charts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.datalaria.com/en/tags/charts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Visualization - Basics</title>
-      <link>http://localhost:1313/en/post/fundamentos/2019-03-02-visualizaciones-basicas/</link>
+      <link>https://www.datalaria.com/en/post/fundamentos/2019-03-02-visualizaciones-basicas/</link>
       <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
       <author>datalaria@gmail.com (Datalaria)</author>
-      <guid>http://localhost:1313/en/post/fundamentos/2019-03-02-visualizaciones-basicas/</guid>
+      <guid>https://www.datalaria.com/en/post/fundamentos/2019-03-02-visualizaciones-basicas/</guid>
       <description>Following up on the information presented in the post &amp;ldquo;Descriptive Statistics&amp;rdquo;, below, we will know the most basic ways to visualize the data or information to be analyzed. Specifically:
  Pie chart Line chart Treemap &amp;amp; Subburst Histograms &amp;amp; Bar charts Density plot Boxplots Violin plots Scatter plots Pareto chart  Note: All the examples (except for the line graphs due to its features) are based on the train.csv dataset file, which is a subset of 891 representative individuals of the population of the Titanic used for the training of models of Machine Learning.</description>
     </item>
